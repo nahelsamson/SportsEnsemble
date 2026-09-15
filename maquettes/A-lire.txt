@@ -1,0 +1,12 @@
+AIX SPORT LOCAL — PREMIERES MAQUETTES
+
+Hypothese : Aix-en-Provence et Pays d'Aix.
+
+01-Accueil.svg : accueil, filtres sportifs, actualites, agenda et resultats.
+02-Ajouter-une-info.svg : formulaire prevu pour ajouter vos contenus.
+
+Dans un fichier Penpot ouvert, glissez les SVG sur la zone de dessin (ou utilisez l'import d'images/SVG). Degroupez si necessaire pour modifier les elements. Les textes, couleurs et formes sont vectoriels. Les PNG servent seulement d'apercu.
+
+Ce sont des maquettes, pas un site fonctionnel. Aucun formulaire ne sauvegarde de contenu. Aucune publication, base de donnees, authentification ni connexion a votre Penpot n'a ete effectuee. Les cartes sont des exemples et ne rapportent aucun evenement sportif reel.
+
+Pour le futur site : un compte editeur, des brouillons, une previsualisation, des images, des articles, des evenements et des resultats. Le contenu devra etre stocke cote serveur pour etre partage avec l'equipe.

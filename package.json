@@ -1,0 +1,11 @@
+{
+  "name": "aix-sport-local",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portail sportif local pour Aix-en-Provence et le Pays d'Aix",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node --check app.js && node --check core.js && node --check server.cjs"
+  },
+  "engines": { "node": ">=22" }
+}
