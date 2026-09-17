@@ -145,3 +145,21 @@ Pour une application déjà installée et connectée à l’ancienne adresse, ut
 dans `mobile-server-url.txt`. Si l’écran de connexion est affiché, modifier directement
 le champ **Adresse du serveur**. Réinstaller par-dessus ne remplace pas une adresse
 précédemment enregistrée sur le téléphone.
+
+### Migration Atlas du 17 septembre 2026
+
+Le site et le service Android utilisent désormais la base Atlas configurée dans
+`.env` sur le PC de développement. MongoDB local n'est plus nécessaire pour ces
+deux serveurs ; il est conservé pour la sauvegarde de départ et les tests locaux.
+Voir [ATLAS.md](ATLAS.md). Le PC doit encore rester allumé pour le service Android.
+
+La connexion et la lecture d'un planning via le service HTTPS ont été vérifiées
+avec un compte temporaire, supprimé après le contrôle. Le tunnel a été relancé :
+utiliser l'adresse actuelle dans `mobile-server-url.txt` avec **Compte → Changer
+d'adresse de serveur** sur une application déjà installée.
+
+APK et QR de téléchargement régénérés après cette bascule. Compilation et Android
+Lint réussis ; téléchargement HTTPS identique au fichier local.
+SHA-256 : `628a5f2c39eba359f1941aa286948c599b832855294e9df171e4cbb8d6441ed5`.
+Le QR actuel est `android/Installer-Android.png` ; la copie datée de cette bascule
+est `android/Installer-Android-Atlas-2026-09-17.png`. Ces fichiers restent locaux.

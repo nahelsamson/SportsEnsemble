@@ -4,7 +4,7 @@ Site d'informations sportives pour Aix-en-Provence et le Pays d'Aix. Interface e
 
 ## Démarrer dans VS Code
 
-Prérequis : Node.js 22 ou supérieur et MongoDB Server local. Compass est l'interface permettant de consulter la base.
+Prérequis : Node.js 22 ou supérieur et MongoDB (serveur local ou cluster Atlas). Compass est l'interface permettant de consulter la base. Voir [ATLAS.md](ATLAS.md) pour passer à une base hébergée en ligne.
 
 Ouvrir le dossier du projet, puis lancer dans son terminal :
 

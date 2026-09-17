@@ -11,7 +11,7 @@ npm start
 
 Ouvrir **http://localhost:9010/#inscription** pour créer un compte, ou **http://localhost:9010/#connexion** pour se connecter. Ne pas ouvrir directement `index.html` : les comptes nécessitent le serveur Node.js.
 
-MongoDB Server doit fonctionner sur votre ordinateur. Compass est l'interface permettant d'explorer ce serveur, pas le serveur lui-même. La connexion locale par défaut est `mongodb://127.0.0.1:27017`. Aucun compte préconfiguré ni mot de passe partagé n'est fourni.
+MongoDB Server doit fonctionner sur votre ordinateur si vous utilisez la configuration locale. Vous pouvez aussi connecter le projet à MongoDB Atlas : voir [ATLAS.md](ATLAS.md). Compass est l'interface permettant d'explorer la base, pas le serveur lui-même. La connexion locale par défaut est `mongodb://127.0.0.1:27017`. Aucun compte préconfiguré ni mot de passe partagé n'est fourni.
 
 Si le port 9010 est occupé, arrêter l'ancien serveur avec Ctrl+C. Utiliser toujours `localhost:9010`, pas `127.0.0.1:9010` : l'origine doit correspondre à la configuration et le stockage des articles dépend de cette adresse.
 
