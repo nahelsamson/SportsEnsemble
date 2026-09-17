@@ -48,9 +48,17 @@ async function main() {
     server.listen(port, '127.0.0.1', () => console.log(`SportsEnsemble : ${origin}\nMongoDB : base ${dbName} — collections users et sessions\nGarde cette fenêtre ouverte. Ctrl+C pour arrêter.`));
     for (const signal of ['SIGINT', 'SIGTERM']) process.once(signal, () => server.close(async () => { await client.close(); process.exit(0); }));
     return { server, client };
-  } catch {
+  } catch (error) {
     await client.close();
-    console.error('Démarrage impossible : vérifie que MongoDB fonctionne et que MONGODB_URI dans .env correspond à ta connexion Compass.');
+    if (!process.env.MONGODB_URI) {
+      console.error('Connexion MongoDB locale indisponible. Pour utiliser Atlas sur ce PC, copie .env.example vers .env puis renseigne sa connexion dans MONGODB_URI. Le fichier .env privé ne vient pas de GitHub. Voir ATLAS.md.');
+    } else if (error.code === 18 || /bad auth|authentication failed/i.test(error.message || '')) {
+      console.error('MongoDB refuse les identifiants. Vérifie le nom et le mot de passe de l’utilisateur de base de données dans MONGODB_URI. Ce compte est distinct du compte de connexion au site Atlas.');
+    } else if (/^mongodb\+srv:|\.mongodb\.net/i.test(process.env.MONGODB_URI)) {
+      console.error('Connexion Atlas impossible. Vérifie Internet, la connexion MONGODB_URI, que le cluster est actif et que l’adresse IP publique de ce PC est autorisée dans Atlas > Network Access. MongoDB Server et Compass ne sont pas nécessaires sur ce PC. Voir ATLAS.md.');
+    } else {
+      console.error('Connexion MongoDB impossible. Vérifie MONGODB_URI dans .env et que le serveur MongoDB correspondant est accessible. Pour Atlas, voir ATLAS.md.');
+    }
     process.exitCode = 1;
   }
 }

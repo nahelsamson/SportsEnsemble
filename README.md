@@ -4,16 +4,27 @@ Site d'informations sportives pour Aix-en-Provence et le Pays d'Aix. Interface e
 
 ## Démarrer dans VS Code
 
-Prérequis : Node.js 22 ou supérieur et MongoDB (serveur local ou cluster Atlas). Compass est l'interface permettant de consulter la base. Voir [ATLAS.md](ATLAS.md) pour passer à une base hébergée en ligne.
+Prérequis : Node.js 22 ou supérieur (avec npm) et une connexion MongoDB (serveur local ou cluster Atlas). Avec Atlas, **MongoDB Server et Compass n'ont pas besoin d'être installés sur le PC**. Le module Node.js `mongodb` reste nécessaire pour communiquer avec Atlas ; il est installé avec les autres dépendances du projet.
 
 Ouvrir le dossier du projet, puis lancer dans son terminal :
 
 ```powershell
-npm install
+npm ci
 npm start
 ```
 
-Ouvrir **http://localhost:9010**. Garder le terminal ouvert. Pour arrêter : Ctrl+C. Le lanceur Windows **Demarrer.cmd** démarre le même serveur après installation des dépendances.
+Ouvrir **http://localhost:9010**. Garder le terminal ouvert. Pour arrêter : Ctrl+C. Sous Windows, **Demarrer.cmd** installe automatiquement les dépendances absentes ou incompatibles, puis démarre le serveur. Internet est nécessaire pour cette installation.
+
+### Premier lancement sur un autre PC avec Atlas
+
+1. Extraire le projet téléchargé depuis GitHub, puis ouvrir le dossier qui contient `package.json` et `Demarrer.cmd`.
+2. Copier `.env.example` vers `.env`. Dans ce fichier privé, remplacer `MONGODB_URI` par la connexion Atlas autorisée pour ce développeur, puis garder `MONGODB_DB=sportsensemble`. Ne pas modifier ni publier `.env.example` avec de vrais identifiants.
+3. Dans Atlas, autoriser l'adresse IP publique de ce PC dans **Network Access**. Utiliser un utilisateur de base de données limité à `readWrite` sur `sportsensemble`.
+4. Double-cliquer sur **Demarrer.cmd**, ou exécuter `npm ci` puis `npm start` depuis ce dossier.
+
+GitHub distribue le code, sans `node_modules` ni `.env`. Le réglage Atlas effectué sur le PC de l'hôte ne configure donc pas automatiquement les autres PC. Voir [ATLAS.md](ATLAS.md).
+
+Pour simplement consulter le site sans installer Node.js ni configurer Atlas sur chaque ordinateur, il faut héberger aussi le serveur web et partager son adresse HTTPS. Atlas héberge uniquement la base de données.
 
 ## Fonctions
 

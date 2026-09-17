@@ -40,6 +40,16 @@ Les sauvegardes privées sont à placer dans `.private/mongodb-backups/`, un dos
 
 ## Configurer le projet
 
+### Sur un nouveau PC
+
+Le téléchargement GitHub ne contient ni les dépendances `node_modules`, ni le fichier privé `.env`. Installer Node.js 22 ou supérieur, puis lancer `Demarrer.cmd` : ce lanceur installe les dépendances absentes avant de démarrer le site. Dans un terminal ouvert dans le dossier contenant `package.json`, les commandes équivalentes sont `npm ci` puis `npm start`.
+
+L'erreur **Cannot find module 'mongodb'** signifie que le pilote Node.js n'est pas installé. Elle survient avant toute tentative de connexion à Atlas. **MongoDB Server et Compass ne sont pas nécessaires avec Atlas**, mais le pilote installé par npm est nécessaire au serveur du site.
+
+Chaque développeur doit aussi configurer sa propre connexion privée `.env` et faire autoriser l'adresse IP publique de son PC dans Atlas. Un visiteur d'un site hébergé n'a pas besoin de ces réglages : il utilise seulement son navigateur.
+
+### Connexion privée
+
 Copier `.env.example` dans `.env` si ce dernier n'existe pas. Dans `.env`, remplacer seulement `MONGODB_URI` par la connexion fournie par Atlas ; conserver :
 
 ```dotenv
