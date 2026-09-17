@@ -50,7 +50,9 @@ Chaque développeur doit aussi configurer sa propre connexion privée `.env` et 
 
 ### Connexion privée
 
-Copier `.env.example` dans `.env` si ce dernier n'existe pas. Dans `.env`, remplacer seulement `MONGODB_URI` par la connexion fournie par Atlas ; conserver :
+Le modèle `.env.example` contient l'adresse de Cluster0, sans identifiants réels. Le `.env` local de l'hôte contient déjà sa connexion Atlas administrateur et est utilisé par le site et le service Android. Ce fichier reste exclu de GitHub.
+
+Sur un nouveau PC, copier `.env.example` dans `.env` si ce dernier n'existe pas. Dans `.env`, remplacer `<UTILISATEUR_ATLAS>` et `<MOT_DE_PASSE_ENCODE>` par les identifiants autorisés pour ce PC, sans conserver les signes `< >`, ou remplacer entièrement `MONGODB_URI` par la connexion fournie par Atlas. Conserver :
 
 ```dotenv
 MONGODB_DB=sportsensemble

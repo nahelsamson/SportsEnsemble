@@ -18,7 +18,7 @@ Ouvrir **http://localhost:9010**. Garder le terminal ouvert. Pour arrêter : Ctr
 ### Premier lancement sur un autre PC avec Atlas
 
 1. Extraire le projet téléchargé depuis GitHub, puis ouvrir le dossier qui contient `package.json` et `Demarrer.cmd`.
-2. Copier `.env.example` vers `.env`. Dans ce fichier privé, remplacer `MONGODB_URI` par la connexion Atlas autorisée pour ce développeur, puis garder `MONGODB_DB=sportsensemble`. Ne pas modifier ni publier `.env.example` avec de vrais identifiants.
+2. Copier `.env.example` vers `.env`. Le modèle contient déjà l'adresse de Cluster0 et le nom de base `sportsensemble`. Dans `.env`, remplacer `<UTILISATEUR_ATLAS>` et `<MOT_DE_PASSE_ENCODE>` par les identifiants autorisés pour ce développeur (encoder les caractères spéciaux du mot de passe pour une URI), ou remplacer `MONGODB_URI` par sa chaîne Atlas complète. Les signes `< >` ne doivent pas rester dans la connexion finale. Les vrais identifiants restent uniquement dans `.env`.
 3. Dans Atlas, autoriser l'adresse IP publique de ce PC dans **Network Access**. Utiliser un utilisateur de base de données limité à `readWrite` sur `sportsensemble`.
 4. Double-cliquer sur **Demarrer.cmd**, ou exécuter `npm ci` puis `npm start` depuis ce dossier.
 
@@ -40,7 +40,7 @@ Les trois articles initiaux sont des exemples. Aucun mot de passe partagé ni co
 
 La connexion par défaut est mongodb://127.0.0.1:27017. Le serveur prépare la base **sportsensemble** et ses collections **users** et **sessions**. Après une inscription, actualiser Compass pour voir le compte. Le mot de passe est stocké sous forme d'empreinte scrypt, jamais en clair.
 
-Voir [COMPTES-MONGODB.md](COMPTES-MONGODB.md) pour la configuration, les limites et les tests. Le fichier .env.example fournit les paramètres locaux ; .env est facultatif pour la configuration par défaut et est ignoré par Git.
+Voir [COMPTES-MONGODB.md](COMPTES-MONGODB.md) pour la configuration, les limites et les tests. Le fichier `.env.example` fournit le modèle Atlas à compléter dans `.env`, qui est ignoré par Git. Sans connexion configurée, le serveur essaie toujours MongoDB local.
 
 ## Fichiers
 
