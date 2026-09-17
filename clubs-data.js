@@ -17,8 +17,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -40,8 +40,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -63,8 +63,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -86,8 +86,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -109,8 +109,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -132,8 +132,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Mar 18h-19h (Cardio/Self-défense), Mar 19h15-20h45 (Penchak Silat), Mer 15h-17h (Jujitsu Atemi), Mer 17h30-18h30 (Silat/Self-défense enfants 9-12 ans), Mer 19h-20h45 (Self-défense)",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -155,8 +155,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -178,8 +178,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -201,8 +201,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -224,8 +224,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne - contacter le club",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -247,8 +247,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -270,8 +270,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -293,8 +293,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -316,8 +316,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -339,8 +339,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 16
   },
@@ -362,8 +362,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 17
   },
@@ -385,8 +385,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 18
   },
@@ -408,8 +408,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 19
   },
@@ -431,8 +431,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "2 salles à Aix-en-Provence - horaires variables par cours, voir planning en ligne",
       "Tarif": "DAILY 25€ ; WEEKLY 50€ ; forfaits BASE/PLUS/PRO 50-90€/4 sem. ; Small Group FLOW 60€ / ELITE 100€ par 4 sem. ; Coaching privé dès 240€/4 sem. ; tarif jeunes -16 ans jusqu'à -35% ; 1er cours d'essai offert"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 20
   },
@@ -454,8 +454,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 21
   },
@@ -477,8 +477,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 22
   },
@@ -500,8 +500,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 23
   },
@@ -521,8 +521,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 24
   },
@@ -544,8 +544,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 25
   },
@@ -567,8 +567,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 26
   },
@@ -590,8 +590,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 27
   },
@@ -613,8 +613,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - plusieurs sections/créneaux",
       "Tarif": "Non communiqué en ligne précisément - inscription via espace licencié FFA, cotisation + licence"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/run.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 28
   },
@@ -636,8 +636,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/run.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 29
   },
@@ -659,8 +659,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/car.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/car.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 30
   },
@@ -681,8 +681,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/car.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/car.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 31
   },
@@ -704,8 +704,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rowing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 32
   },
@@ -727,8 +727,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/air.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/air.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 33
   },
@@ -750,8 +750,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/air.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/air.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 34
   },
@@ -773,8 +773,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 35
   },
@@ -796,8 +796,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Mardi 18h30-20h (Dojo R. Ruocco), Samedi 11h-12h30 (Maison des Arts de Combat, Val de l'Arc)",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 36
   },
@@ -819,8 +819,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 37
   },
@@ -840,8 +840,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 38
   },
@@ -863,8 +863,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 39
   },
@@ -886,8 +886,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Adultes : lun 18h30-20h30, mar 12h15-13h30, jeu 19h-21h, sam 10h-12h. Enfants : lun 17h15-18h30. Ados : mer 14h-15h30 + accès sam.",
       "Tarif": "Cotisation via HelloAsso (montant non public) ; -10% dès 2 pers. même famille, -20% dès 3 pers. ; sept. et juil. gratuits"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 40
   },
@@ -909,8 +909,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/badminton.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 41
   },
@@ -932,8 +932,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/badminton.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 42
   },
@@ -954,8 +954,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/badminton.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 43
   },
@@ -977,8 +977,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/basket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/basket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 44
   },
@@ -999,8 +999,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Salle Rocher du Dragon, Avenue Henri Pontier",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/basket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/basket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 45
   },
@@ -1021,8 +1021,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/billiards.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 46
   },
@@ -1043,8 +1043,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bowling.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 47
   },
@@ -1066,8 +1066,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boxing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 48
   },
@@ -1089,8 +1089,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boxing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 49
   },
@@ -1111,8 +1111,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boxing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 50
   },
@@ -1133,8 +1133,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boxing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 51
   },
@@ -1155,8 +1155,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "165 Chemin de la Valette, 13090 Aix-en-Provence",
       "Tarif": "Formule illimitée (accès à toutes les disciplines) ; abonnement inclut adhésion + licence + tee-shirt ; licence FFBoxe généralement ~51€ adulte/30€ enfant (indicatif marché) ; cours d'essai gratuit"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boxing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 52
   },
@@ -1178,8 +1178,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 53
   },
@@ -1200,8 +1200,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/cheer.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 54
   },
@@ -1223,8 +1223,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/cheer.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 55
   },
@@ -1246,8 +1246,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/circus.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 56
   },
@@ -1269,8 +1269,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 57
   },
@@ -1292,8 +1292,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 58
   },
@@ -1315,8 +1315,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 59
   },
@@ -1338,8 +1338,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 60
   },
@@ -1361,8 +1361,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 61
   },
@@ -1383,8 +1383,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 62
   },
@@ -1406,8 +1406,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 63
   },
@@ -1429,8 +1429,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 64
   },
@@ -1452,8 +1452,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 65
   },
@@ -1474,8 +1474,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 66
   },
@@ -1497,8 +1497,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 67
   },
@@ -1520,8 +1520,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 68
   },
@@ -1543,8 +1543,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 69
   },
@@ -1566,8 +1566,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 70
   },
@@ -1588,8 +1588,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 71
   },
@@ -1611,8 +1611,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 72
   },
@@ -1634,8 +1634,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 73
   },
@@ -1657,8 +1657,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 74
   },
@@ -1680,8 +1680,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 75
   },
@@ -1703,8 +1703,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 76
   },
@@ -1726,8 +1726,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Centre du Deffens (salle 200m²) - Contemporain, Modern'jazz, Afro-Contemporain, Barre à terre...",
       "Tarif": "Forfait illimité adultes à partir de 3 cours/semaine - montant exact non extrait, voir danse-harmonie.fr/horaires-et-tarifs"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 77
   },
@@ -1749,8 +1749,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 78
   },
@@ -1772,8 +1772,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 79
   },
@@ -1794,8 +1794,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 80
   },
@@ -1817,8 +1817,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 81
   },
@@ -1840,8 +1840,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 82
   },
@@ -1863,8 +1863,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 83
   },
@@ -1886,8 +1886,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 84
   },
@@ -1909,8 +1909,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 85
   },
@@ -1932,8 +1932,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Maison des Associations, 1 Rue Émile Tavan, 13100 Aix-en-Provence ; permanence jeudi 19h-20h",
       "Tarif": "Carte Découverte (1-2 sorties avant adhésion) : 5€/journée, assurance incluse ; cotisation annuelle complète : voir fiche tarifaire FFCAM 2025-2026 (montant non extrait, variable selon options d'assurance)"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 86
   },
@@ -1954,8 +1954,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 87
   },
@@ -1977,8 +1977,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 88
   },
@@ -2000,8 +2000,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 89
   },
@@ -2023,8 +2023,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fencing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 90
   },
@@ -2046,8 +2046,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fencing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 91
   },
@@ -2069,8 +2069,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 92
   },
@@ -2092,8 +2092,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 93
   },
@@ -2115,8 +2115,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 94
   },
@@ -2138,8 +2138,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 95
   },
@@ -2161,8 +2161,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 96
   },
@@ -2184,8 +2184,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 97
   },
@@ -2207,8 +2207,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 98
   },
@@ -2230,8 +2230,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 99
   },
@@ -2253,8 +2253,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 100
   },
@@ -2276,8 +2276,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 101
   },
@@ -2298,8 +2298,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 102
   },
@@ -2319,8 +2319,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 103
   },
@@ -2341,8 +2341,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 104
   },
@@ -2363,8 +2363,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 105
   },
@@ -2386,8 +2386,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 106
   },
@@ -2409,8 +2409,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 107
   },
@@ -2432,8 +2432,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 108
   },
@@ -2454,8 +2454,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 109
   },
@@ -2476,8 +2476,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 110
   },
@@ -2499,8 +2499,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 111
   },
@@ -2522,8 +2522,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 112
   },
@@ -2544,8 +2544,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 113
   },
@@ -2567,8 +2567,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 114
   },
@@ -2589,8 +2589,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 115
   },
@@ -2612,8 +2612,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 116
   },
@@ -2635,8 +2635,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 117
   },
@@ -2658,8 +2658,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 118
   },
@@ -2681,8 +2681,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 119
   },
@@ -2703,8 +2703,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 120
   },
@@ -2726,8 +2726,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 121
   },
@@ -2749,8 +2749,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 122
   },
@@ -2771,8 +2771,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 123
   },
@@ -2793,8 +2793,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 124
   },
@@ -2814,8 +2814,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 125
   },
@@ -2836,8 +2836,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 126
   },
@@ -2858,8 +2858,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 127
   },
@@ -2881,8 +2881,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 128
   },
@@ -2903,8 +2903,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 129
   },
@@ -2926,8 +2926,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 130
   },
@@ -2949,8 +2949,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "7j/7, 9h-23h - 205 Av. du 12 Juillet 1998, Les Milles",
       "Tarif": "Location terrain en tickets (packs entreprise) : 110 tickets heures pleines 925€HT/1110€TTC, 230 tickets 1758€HT/2110€TTC, 400 tickets 3091€HT/3710€TTC ; 110 tickets heures creuses 558€HT/670€TTC ; tarifs individuels non détaillés, voir z5sport.com/nos-tarifs"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 131
   },
@@ -2972,8 +2972,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 132
   },
@@ -2995,8 +2995,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/rugby.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rugby.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 133
   },
@@ -3017,8 +3017,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/golf.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/golf.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 134
   },
@@ -3039,8 +3039,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/golf.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/golf.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 135
   },
@@ -3062,8 +3062,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/golf.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/golf.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 136
   },
@@ -3085,8 +3085,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/golf.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/golf.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 137
   },
@@ -3108,8 +3108,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Complexe Sportif du Val de l'Arc",
       "Tarif": "Non communiqué en ligne précisément - inscription via aucgym.comiti-sport.fr"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/gymnastics.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 138
   },
@@ -3131,8 +3131,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/gymnastics.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 139
   },
@@ -3154,8 +3154,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/gymnastics.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 140
   },
@@ -3177,8 +3177,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 141
   },
@@ -3199,8 +3199,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 142
   },
@@ -3222,8 +3222,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 143
   },
@@ -3245,7 +3245,7 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Gymnase du Val de l'Arc (jeunes + seniors loisirs) ; Arena du Pays d'Aix (équipe pro)",
       "Tarif": "Non communiqué en ligne précisément - inscriptions via plateforme Comiti, places limitées, voir pauc-handball.com/jeunes-loisirs"
     },
-    "image": "/assets/clubs/pauc.png",
+    "image": "assets/clubs/pauc.png",
     "imageCredit": "Logo du club — source : site officiel",
     "imageSource": "https://www.pauc-handball.com/presentation",
     "sourceRow": 144
@@ -3267,8 +3267,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/handball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/handball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 145
   },
@@ -3289,8 +3289,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/access.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/access.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 146
   },
@@ -3312,8 +3312,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/access.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/access.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 147
   },
@@ -3335,8 +3335,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/access.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/access.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 148
   },
@@ -3358,8 +3358,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/access.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/access.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 149
   },
@@ -3380,8 +3380,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/access.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/access.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 150
   },
@@ -3403,8 +3403,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/hockey.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hockey.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 151
   },
@@ -3425,8 +3425,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 152
   },
@@ -3448,8 +3448,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 153
   },
@@ -3471,8 +3471,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Maison des Arts de Combat (Val de l'Arc), Gymnase Coulange (Encagnane), Gymnase Cournand (Loubassane)",
       "Tarif": "Saison 2025-2026 : Baby 205€/an ; Pré-poussin/Poussin 265€/an ; catégories Benjamin à Senior tarif différent (non précisé dans l'extrait) ; réduction via Pass'Sport Club municipal pour les jeunes"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 154
   },
@@ -3494,8 +3494,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 155
   },
@@ -3517,8 +3517,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne - contacter le club",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 156
   },
@@ -3540,8 +3540,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 157
   },
@@ -3563,8 +3563,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 158
   },
@@ -3586,8 +3586,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 159
   },
@@ -3609,8 +3609,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 160
   },
@@ -3632,8 +3632,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne - club privé",
       "Tarif": "Accès réservé aux membres (cotisation annuelle) - tarif de cotisation non public, contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 161
   },
@@ -3654,8 +3654,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "165 Chemin de la Valette, 13090 Aix-en-Provence",
       "Tarif": "Formule illimitée (accès à toutes les disciplines) ; abonnement inclut adhésion + licence + tee-shirt ; licence FFBoxe généralement ~51€ adulte/30€ enfant (indicatif marché) ; cours d'essai gratuit"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 162
   },
@@ -3677,8 +3677,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 163
   },
@@ -3700,8 +3700,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 164
   },
@@ -3723,8 +3723,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 165
   },
@@ -3745,8 +3745,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/judo.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 166
   },
@@ -3768,8 +3768,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/motorbike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 167
   },
@@ -3789,8 +3789,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/motorbike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 168
   },
@@ -3811,8 +3811,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/motorbike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 169
   },
@@ -3833,8 +3833,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 170
   },
@@ -3856,8 +3856,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 171
   },
@@ -3879,8 +3879,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 172
   },
@@ -3902,8 +3902,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 173
   },
@@ -3925,8 +3925,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 174
   },
@@ -3948,8 +3948,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 175
   },
@@ -3970,8 +3970,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 176
   },
@@ -3993,8 +3993,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 177
   },
@@ -4016,8 +4016,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 178
   },
@@ -4039,8 +4039,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 179
   },
@@ -4062,8 +4062,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 180
   },
@@ -4084,8 +4084,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 181
   },
@@ -4107,8 +4107,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 182
   },
@@ -4130,8 +4130,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 183
   },
@@ -4153,8 +4153,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 184
   },
@@ -4176,8 +4176,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 185
   },
@@ -4199,7 +4199,7 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Piscines du Pays d'Aix (CSU notamment) - créneaux par groupe, voir comiti-sport.fr",
       "Tarif": "École de natation jeunes : 275€/an (dont 115€ d'adhésion non remboursable en cas de déménagement hors département)"
     },
-    "image": "/assets/clubs/pan.webp",
+    "image": "assets/clubs/pan.webp",
     "imageCredit": "Logo du club — source : site officiel",
     "imageSource": "https://pays-aix-natation.com/contact/",
     "sourceRow": 186
@@ -4222,8 +4222,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 187
   },
@@ -4245,8 +4245,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne - club privé",
       "Tarif": "Accès réservé aux membres (cotisation annuelle) - tarif de cotisation non public, contacter le club"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 188
   },
@@ -4268,8 +4268,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/air.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/parachute.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 189
   },
@@ -4291,8 +4291,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 190
   },
@@ -4314,8 +4314,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/diving.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 191
   },
@@ -4337,8 +4337,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/diving.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 192
   },
@@ -4359,8 +4359,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/diving.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 193
   },
@@ -4381,8 +4381,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/diving.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 194
   },
@@ -4404,8 +4404,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 195
   },
@@ -4427,8 +4427,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Maison des Associations, 1 Rue Émile Tavan, 13100 Aix-en-Provence ; permanence jeudi 19h-20h",
       "Tarif": "Carte Découverte (1-2 sorties avant adhésion) : 5€/journée, assurance incluse ; cotisation annuelle complète : voir fiche tarifaire FFCAM 2025-2026 (montant non extrait, variable selon options d'assurance)"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 196
   },
@@ -4449,8 +4449,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 197
   },
@@ -4471,8 +4471,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 198
   },
@@ -4493,8 +4493,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 199
   },
@@ -4516,8 +4516,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 200
   },
@@ -4539,8 +4539,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/hike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 201
   },
@@ -4561,8 +4561,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/wheels.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/wheels.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 202
   },
@@ -4583,8 +4583,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/wheels.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/wheels.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 203
   },
@@ -4606,8 +4606,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/rugby.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rugby.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 204
   },
@@ -4629,8 +4629,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/rugby.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rugby.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 205
   },
@@ -4652,7 +4652,7 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/provence.png",
+    "image": "assets/clubs/provence.png",
     "imageCredit": "Logo du club — source : site officiel",
     "imageSource": "https://www.provencerugby.com/",
     "sourceRow": 206
@@ -4675,8 +4675,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/rugby.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rugby.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 207
   },
@@ -4698,8 +4698,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Maison des Associations, 1 Rue Émile Tavan, 13100 Aix-en-Provence ; permanence jeudi 19h-20h",
       "Tarif": "Carte Découverte (1-2 sorties avant adhésion) : 5€/journée, assurance incluse ; cotisation annuelle complète : voir fiche tarifaire FFCAM 2025-2026 (montant non extrait, variable selon options d'assurance)"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ski.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 208
   },
@@ -4720,8 +4720,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ski.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 209
   },
@@ -4742,8 +4742,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ski.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 210
   },
@@ -4765,8 +4765,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ski.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 211
   },
@@ -4788,8 +4788,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ski.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 212
   },
@@ -4810,8 +4810,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/dog.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dog.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 213
   },
@@ -4832,8 +4832,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 214
   },
@@ -4854,8 +4854,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 215
   },
@@ -4874,8 +4874,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 216
   },
@@ -4896,8 +4896,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 217
   },
@@ -4919,8 +4919,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 218
   },
@@ -4941,8 +4941,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 219
   },
@@ -4964,8 +4964,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Maison des Associations, 1 Rue Émile Tavan, 13100 Aix-en-Provence ; permanence jeudi 19h-20h",
       "Tarif": "Carte Découverte (1-2 sorties avant adhésion) : 5€/journée, assurance incluse ; cotisation annuelle complète : voir fiche tarifaire FFCAM 2025-2026 (montant non extrait, variable selon options d'assurance)"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 220
   },
@@ -4986,8 +4986,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 221
   },
@@ -5008,8 +5008,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 222
   },
@@ -5031,8 +5031,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 223
   },
@@ -5054,8 +5054,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 224
   },
@@ -5077,8 +5077,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 225
   },
@@ -5100,8 +5100,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne - club privé",
       "Tarif": "Accès réservé aux membres (cotisation annuelle) - tarif de cotisation non public, contacter le club"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 226
   },
@@ -5123,8 +5123,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 227
   },
@@ -5146,8 +5146,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Tous les jours 7h-22h - Complexe sportif La Pioline, 4 courts éclairés",
       "Tarif": "Cotisation seule : plein tarif 125€, réduit (-18 ans/étudiants/couples/chômeurs) 105€ ; Mini-Tennis 170€ ; École 1h 200€, 1h30 285€, 3h 405€ ; Pass'Sports débutants 110€/an ; location terrain sans adhésion dès 12€/h via Ten'Up"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 228
   },
@@ -5168,8 +5168,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 229
   },
@@ -5191,8 +5191,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 230
   },
@@ -5214,8 +5214,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 231
   },
@@ -5237,8 +5237,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Gymnase du Val Saint André (hors stages)",
       "Tarif": "Non communiqué en ligne précisément pour la saison - stage vacances (Toussaint) : semaine 90€, 5 demi-journées 55€ (+5€ pour non adhérents Aix Gym)"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/tabletennis.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 232
   },
@@ -5260,8 +5260,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 233
   },
@@ -5283,8 +5283,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 234
   },
@@ -5306,8 +5306,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 235
   },
@@ -5328,8 +5328,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/archery.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 236
   },
@@ -5351,8 +5351,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 237
   },
@@ -5374,8 +5374,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/frisbee.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/frisbee.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 238
   },
@@ -5397,8 +5397,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/volley.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/volley.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 239
   },
@@ -5419,8 +5419,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/volley.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/volley.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 240
   },
@@ -5442,8 +5442,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/volley.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/volley.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 241
   },
@@ -5464,8 +5464,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/volley.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/volley.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 242
   },
@@ -5487,8 +5487,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 243
   },
@@ -5510,8 +5510,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 244
   },
@@ -5532,8 +5532,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 245
   },
@@ -5555,8 +5555,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 246
   },
@@ -5578,8 +5578,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 247
   },
@@ -5601,8 +5601,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 248
   },
@@ -5624,8 +5624,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 249
   },
@@ -5647,8 +5647,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 250
   },
@@ -5670,8 +5670,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 251
   },
@@ -5692,8 +5692,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 252
   },
@@ -5715,8 +5715,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 253
   },
@@ -5738,8 +5738,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 254
   },
@@ -5761,8 +5761,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/chess.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/chess.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 255
   },
@@ -5783,8 +5783,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 256
   },
@@ -5806,8 +5806,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 257
   },
@@ -5829,8 +5829,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 258
   },
@@ -5852,8 +5852,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - petite association sans tarifs publiés, contacter directement"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 259
   },
@@ -5869,8 +5869,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Multisport, grand parking gratuit",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -5886,8 +5886,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Piscine, tennis, basket, musculation",
       "Statut": "Municipal/Universitaire"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -5903,8 +5903,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Gymnase, basket, tennis extérieur",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -5920,8 +5920,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Foot, multisport (handball/futsal), skatepark, dojo, ouvert 24h/24",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -5937,8 +5937,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Stade, volley, athlétisme, boxe",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -5954,8 +5954,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Terrain synthétique, rugby, football",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -5971,8 +5971,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Boxe",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -5988,8 +5988,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Gymnase multifonction avec mur d'escalade, stade en pelouse synthétique - inauguré le 6/11/2024",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -6005,8 +6005,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Volley-ball, sports de salle",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -6022,8 +6022,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Nombreux clubs : badminton, escalade, arts martiaux...",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -6039,8 +6039,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Danse, escrime, arts martiaux, multisports",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -6056,8 +6056,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Badminton, judo, karaté, arts martiaux",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -6073,8 +6073,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Arts martiaux, gym volontaire, danse",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -6090,8 +6090,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Lutte, judo, escalade",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -6107,8 +6107,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Badminton, karaté, taekwondo, boxe",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 16
   },
@@ -6124,8 +6124,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Boxe française, gym volontaire",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 17
   },
@@ -6141,8 +6141,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Aïkido, judo, karaté, escrime, golf, sport santé",
       "Statut": "Municipal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 18
   },
@@ -6158,8 +6158,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Salle principale 6000-8500 places (handball, basket, volley, boxe, MMA, tennis...), salle annexe 1000-2000 places, résidence du PAUC Handball. Inaugurée en 2017.",
       "Statut": "Intercommunal / Métropole"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 19
   },
@@ -6175,8 +6175,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Halle de basket, salle d'escrime, dojang, salles parquet, stand de tir, mur d'escalade, piste d'athlétisme, salle de musculation, 4 terrains de squash, 3 terrains de tennis extérieurs, 3 stades de football, beach soccer, beach volley, gymnase tatamis. Internat 180 lits, dédié au sport de haut niveau.",
       "Statut": "Public (État, ministère des Sports)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 20
   },
@@ -6194,8 +6194,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Plein tarif ~3-4€ selon groupe de piscine ; carte de rechargement 1€ ; carte 10 entrées CE 22€",
       "Horaires": "Variables selon saison - voir aixenprovence.fr"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -6213,8 +6213,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "12€/séance ou 50€/5 séances",
       "Horaires": "Sur inscription, hors vacances scolaires"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -6232,8 +6232,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Plein tarif ~3€ ; tarif réduit ~2,20€",
       "Horaires": "Variables selon saison"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -6251,8 +6251,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Plein tarif 3€ ; tarif réduit 2,20€ ; carte rechargeable 2,40€/1,80€",
       "Horaires": "Variables selon saison - fermetures techniques possibles"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -6270,8 +6270,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Plein tarif 3€ ; tarif réduit 2,20€",
       "Horaires": "Ex: lundi 12h-17h45, mardi/vendredi 12h-13h45, jeudi 7h30-9h et 12h-13h45 (variable selon période)"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -6289,8 +6289,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Sur devis/inscription à la piscine",
       "Horaires": "Hors vacances scolaires, préinscription en ligne"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -6308,8 +6308,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Sur inscription en ligne (compte à créer sur piscinesaixoises.fr)",
       "Horaires": "Créneaux hebdomadaires hors vacances scolaires"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -6327,8 +6327,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Sur inscription en ligne",
       "Horaires": "Créneaux hebdomadaires hors vacances scolaires"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -6346,8 +6346,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "10€/séance ou 40€/5 séances",
       "Horaires": "Sur inscription"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -6365,8 +6365,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "11€/séance ou 45€/5 séances",
       "Horaires": "Sur inscription"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -6384,8 +6384,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "Selon club utilisateur, non communiqué publiquement",
       "Horaires": "Créneaux réservés aux clubs et à l'université"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -6403,8 +6403,8 @@ window.CLUB_DIRECTORY = [
       "Tarif": "-",
       "Horaires": "FERMÉE DÉFINITIVEMENT (confirmé par la mairie) - ne plus consulter"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -6420,8 +6420,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Le plus complet — agrès + grandes pelouses au bord de la rivière",
       "Accès": "Gratuit, accès libre"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -6437,8 +6437,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Bon niveau d'équipement, barres",
       "Accès": "À vérifier"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -6454,8 +6454,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Spot recensé, agrès",
       "Accès": "À vérifier"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -6471,8 +6471,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Agrès au milieu des espaces naturels",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -6488,8 +6488,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Station de street workout dédiée",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -6505,8 +6505,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Station calisthenics",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -6522,8 +6522,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Barres de traction, barres parallèles, monkey bar, wall bars — à côté des terrains de foot",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -6539,8 +6539,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Barres de traction extérieures",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -6556,8 +6556,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Accès libre, quelques agrès",
       "Accès": "Gratuit"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/workout.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -6573,8 +6573,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Nouveau (fin 2024), ~1000m², plaza + bowl",
       "Statut": "Municipal, gratuit"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -6590,8 +6590,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Skate park, quartier Jas de Bouffan",
       "Statut": "Municipal, gratuit"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -6607,8 +6607,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Skate park street (2017, 360m²) + pumptrack BMX",
       "Statut": "Municipal, gratuit"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -6624,8 +6624,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Skate park",
       "Statut": "Municipal, gratuit"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -6641,8 +6641,8 @@ window.CLUB_DIRECTORY = [
       "Équipements": "Skate/roller/BMX",
       "Statut": "Municipal, gratuit"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -6658,8 +6658,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "4 hectares, boulodrome, grandes pelouses, escalier monumental",
       "Usages sportifs": "Marche, jogging, pétanque"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -6675,8 +6675,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "1,3 hectare, jardin de style anglais, aire de jeux",
       "Usages sportifs": "Marche, détente"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -6692,8 +6692,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "8 hectares le long du ruisseau de la Torse, parcours de course d'orientation",
       "Usages sportifs": "Jogging, marche, vélo, parcours de santé"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -6709,8 +6709,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Jardin japonais",
       "Usages sportifs": "Marche, détente"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -6726,8 +6726,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Jeux d'eau, théâtre de verdure",
       "Usages sportifs": "Familles, marche"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -6743,8 +6743,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Zone naturelle, fraîcheur en été",
       "Usages sportifs": "Randonnée, marche"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -6760,8 +6760,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Coulée verte le long de l'Arc",
       "Usages sportifs": "Jogging, marche, vélo"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -6777,8 +6777,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Parc paysager",
       "Usages sportifs": "Marche"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -6794,8 +6794,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Espace familial",
       "Usages sportifs": "Marche, détente"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -6811,8 +6811,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Jardin à la française, roseraie",
       "Usages sportifs": "Marche, détente (moins adapté au sport actif)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -6828,8 +6828,8 @@ window.CLUB_DIRECTORY = [
       "Caractéristiques": "Restanques aménagées",
       "Usages sportifs": "Marche"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/park.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -6844,8 +6844,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue Yvette Bonnard, Nord",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -6860,8 +6860,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "35, Avenue Jules Isaac, Nord",
       "Sports praticables": "Basket, foot, hand, badminton"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -6876,8 +6876,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Charles Joannon, Nord",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -6892,8 +6892,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin de la Trevaresse, Nord",
       "Sports praticables": "Basket, volley"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -6908,8 +6908,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue René Coty, Nord",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -6924,8 +6924,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue de l'École, Nord",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -6940,8 +6940,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue de Bagatelle, Ouest",
       "Sports praticables": "Football, basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -6956,8 +6956,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue des Vignes, Ouest",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -6972,8 +6972,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue Charloun Rieu, Ouest",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -6988,8 +6988,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Marcel Pagnol, Ouest",
       "Sports praticables": "Foot, futsal, hand, basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -7004,8 +7004,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Boulevard du Docteur Schweitzer, Ouest",
       "Sports praticables": "Foot, hand, basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -7020,8 +7020,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue du Jas de Bouffan, Ouest",
       "Sports praticables": "Basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -7036,8 +7036,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Albert Baudoin, Ouest",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -7052,8 +7052,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue Hugo Ely, Ouest",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -7068,8 +7068,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue des Déportés de la Résistance Aixoise, Est & Centre",
       "Sports praticables": "Basket, foot, volley, hand, futsal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 16
   },
@@ -7084,8 +7084,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Rue de Cuques, Est & Centre",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 17
   },
@@ -7100,8 +7100,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin de Beauregard, Est & Centre",
       "Sports praticables": "Basket, foot, volley, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 18
   },
@@ -7116,8 +7116,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Jules Isaac, Est & Centre",
       "Sports praticables": "Basket, foot, badminton, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 19
   },
@@ -7132,8 +7132,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin de Beauregard, Est & Centre",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 20
   },
@@ -7148,8 +7148,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Cours des Arts et Métiers, Est & Centre",
       "Sports praticables": "Basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 21
   },
@@ -7164,8 +7164,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Route des Milles, Est & Centre",
       "Sports praticables": "Basket, foot, hand, fitness"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 22
   },
@@ -7180,8 +7180,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Jean et Marcel Fontenaille, Est & Centre",
       "Sports praticables": "Basket, hand, foot"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 23
   },
@@ -7196,8 +7196,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue du square, Est & Centre",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 24
   },
@@ -7212,8 +7212,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue du Club Hippique, Est & Centre",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 25
   },
@@ -7228,8 +7228,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "ZAC Saint-Joseph, Sud",
       "Sports praticables": "Football"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 26
   },
@@ -7244,8 +7244,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Albert Couton, Sud",
       "Sports praticables": "Basket, foot, futsal, tennis, hand, musculation"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 27
   },
@@ -7260,8 +7260,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue François Vidal, Sud",
       "Sports praticables": "Basket"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 28
   },
@@ -7276,8 +7276,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Route de Gardanne, Sud",
       "Sports praticables": "Basket, foot, hand"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 29
   },
@@ -7292,8 +7292,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Nicolas Copernic, Sud",
       "Sports praticables": "Basket, foot, hand, aires de fitness"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 30
   },
@@ -7307,8 +7307,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Couteron",
       "Adresse / Secteur": "Centre du village, au centre aéré, Nord"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -7322,8 +7322,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Puyricard",
       "Adresse / Secteur": "Place de l'Église, Boulevard de Carelle & Village du Soleil, Nord"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -7337,8 +7337,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Défens",
       "Adresse / Secteur": "Campagne Roure, 13090 Aix-en-Provence, Ouest"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -7352,8 +7352,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Encagnane",
       "Adresse / Secteur": "Square Tournadre, 13090 Aix-en-Provence, Ouest"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -7367,8 +7367,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Jas Marché",
       "Adresse / Secteur": "Avenue du Four d'Eyglun, 13090 Aix-en-Provence, Ouest"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -7382,8 +7382,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Georges Carcassonne",
       "Adresse / Secteur": "Avenue des Déportés de la Résistance Aixoise, 13100 Aix-en-Provence, Est & Centre"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -7397,8 +7397,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Parc Jourdan",
       "Adresse / Secteur": "Avenue Anatole France, 13100 Aix-en-Provence, Est & Centre"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -7412,8 +7412,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Orbitelle",
       "Adresse / Secteur": "Avenue Anatole France, 13100 Aix-en-Provence, Est & Centre"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -7427,8 +7427,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Val Saint André",
       "Adresse / Secteur": "Avenue du Square, 13100 Aix-en-Provence, Est & Centre"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -7442,8 +7442,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Luynes (Place de la Libération)",
       "Adresse / Secteur": "Place de la Libération, Luynes, Sud"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -7457,8 +7457,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Luynes (Espace Ughetti)",
       "Adresse / Secteur": "Espace Ughetti, Luynes, Sud"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -7472,8 +7472,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Les Milles",
       "Adresse / Secteur": "Boulodrome de La Gare, Les Milles, Sud"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -7487,8 +7487,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Pioline",
       "Adresse / Secteur": "35, Chemin Albert Guigou, Les Milles, Sud"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -7502,8 +7502,8 @@ window.CLUB_DIRECTORY = [
       "Nom": "Marius Requier",
       "Adresse / Secteur": "Le stade, Les Milles, Sud"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/boules.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -7518,8 +7518,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "1195, Chemin de Cruyes, Nord",
       "Équipement": "10 terre battue, 8 en dur (10 éclairés, 5 couverts)"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -7534,8 +7534,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin du Château d'Alpheran, Nord",
       "Équipement": "4 en dur, 1 gazon synthétique (3 éclairés)"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -7550,8 +7550,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "50, Rue du Château de l'Horloge, Ouest",
       "Équipement": "6 en dur éclairés, 1 synthétique"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -7566,8 +7566,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "1335, Chemin de Granet, Ouest",
       "Équipement": "8 terre battue, 6 en dur (10 éclairés, 4 couverts)"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -7582,8 +7582,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin des Infirmeries, Est & Centre",
       "Équipement": "3 synthétiques + 5 en dur (tous éclairés), 3 terrains de padel"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -7598,8 +7598,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Jules Ferry, Est & Centre",
       "Équipement": "7 en dur"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -7614,8 +7614,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Henri Malacrida, Est & Centre",
       "Équipement": "3 en dur, éclairés"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -7630,8 +7630,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue des Déportés de la Résistance Aixoise, Est & Centre",
       "Équipement": "2 en dur, éclairés"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -7646,8 +7646,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Chemin Albert Guigou, Sud",
       "Équipement": "4 en dur éclairés"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -7662,8 +7662,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Route de Valcros, 13090 Aix-en-Provence",
       "Équipement": "Courts associés au golf"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -7678,8 +7678,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Route des Milles, 13100 Aix-en-Provence",
       "Équipement": "4 courts en dur"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -7694,8 +7694,8 @@ window.CLUB_DIRECTORY = [
       "Adresse / Secteur": "Avenue Augustin Fresnel, 13290 La Duranne",
       "Équipement": "4 courts en dur"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -7710,8 +7710,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route du Colonel Bellec, Quartier de la Glacière, 13540 Puyricard",
       "Équipements": "1 plateau pelousé, 1 pelouse, 1 synthétique, 1 futsal"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -7726,8 +7726,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Rue de l'école, Les Platanes, 13100 Aix-en-Provence",
       "Équipements": "1 terrain stabilisé"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -7742,8 +7742,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route de Galice, 13100 Aix-en-Provence",
       "Équipements": "1 terrain pelouse"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -7758,8 +7758,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "20, Avenue Marcel Pagnol, 13090 Aix-en-Provence",
       "Équipements": "1 pelouse, 2 synthétiques, 1 aire de workout"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -7774,8 +7774,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route de Valcros, 13090 Aix-en-Provence",
       "Équipements": "1 synthétique, 1 plateau synthétique"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -7790,8 +7790,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue des Déportés de la Résistance Aixoise, 13100 Aix-en-Provence",
       "Équipements": "1 pelouse, 2 synthétiques, 2 pistes d'athlétisme, aires de sauts/lancers, 1 aire de workout, parcours d'orientation, parcours de santé"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -7806,8 +7806,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Complexe Sportif du Val de l'Arc, Chemin des Infirmeries, 13090 Aix-en-Provence",
       "Équipements": "1 plaine de jeux, 1 synthétique foot (X. Gautier), 1 terrain foot US, 1 futsal, 1 synthétique rugby, 2 terrains beach-volley"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -7822,8 +7822,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Albert Couton, 13290 Les Milles",
       "Équipements": "3 terrains : 1 pelouse, 1 synthétique, 1 plateau stabilisé"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -7838,8 +7838,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue François Vidal, 13090 Luynes",
       "Équipements": "1 pelouse, 2 synthétiques"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -7854,8 +7854,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Fresnel, 13290 La Duranne",
       "Équipements": "1 pelouse"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -7870,8 +7870,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Gaston Berger, 13100 Aix-en-Provence",
       "Équipements": "1 terrain synthétique"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -7886,8 +7886,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route d'Apt, 13100 La Duranne",
       "Équipements": "1 terrain synthétique"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -7902,8 +7902,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue San Peyre, 13540 Puyricard",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -7918,8 +7918,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue du Docteur Bertrand, 13100 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -7934,8 +7934,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "2, Avenue des Frères Pratési, 13090 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -7950,8 +7950,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Germain Nouveau, Encagnane, 13090 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -7966,8 +7966,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Place de l'Horloge, 13100 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -7982,8 +7982,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Rue Henry Moissan, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -7998,8 +7998,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin du Four, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -8014,8 +8014,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Pierre de Coubertin, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -8030,8 +8030,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Laurent Vibert, Petite Chartreuse, 13090 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -8046,8 +8046,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Allée des Musiciens, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -8062,8 +8062,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin des Infirmeries, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -8078,8 +8078,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue du Val Saint André, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -8094,8 +8094,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Lycée Zola, Chemin de la Cible, 13090 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -8110,8 +8110,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Albert Couton, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -8126,8 +8126,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Lycée International, Route de Marseille, 13080 Luynes",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 16
   },
@@ -8142,8 +8142,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin Albert Guigou, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 17
   },
@@ -8158,8 +8158,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route d'Apt, 13100 La Duranne",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 18
   },
@@ -8174,8 +8174,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue San Peyre, 13540 Puyricard",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -8190,8 +8190,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue du Docteur Bertrand, 13100 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -8206,8 +8206,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "13100 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -8222,8 +8222,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "2, Avenue des Frères Pratési, 13090 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -8238,8 +8238,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Boulevard du Docteur Schweitzer, 13090 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -8254,8 +8254,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "110, Rue Henry Moissan, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -8270,8 +8270,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Gaston Berger, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -8286,8 +8286,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Parking du Stade, Avenue François Vidal, 13080 Luynes",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -8302,8 +8302,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Albert Couton, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -8318,8 +8318,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "1195, Chemin de Cruyes, 13100 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -8334,8 +8334,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Campagne Roure, 13090 Aix-en-Provence",
       "Secteur": "Ouest"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -8350,8 +8350,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "110, Rue Henry Moissan, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -8366,8 +8366,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Gaston Berger, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -8382,8 +8382,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin des Infirmeries, 13090 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -8398,8 +8398,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin Albert Guigou, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -8414,8 +8414,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Frédéric Mistral, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -8430,8 +8430,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Lycée International, Route de Marseille, 13080 Luynes",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -8446,8 +8446,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue Albert Couton, 13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -8462,8 +8462,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Rue André Claverie, Route de Gardanne, 13080 Luynes",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -8478,8 +8478,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Route d'Apt, 13100 Aix-en-Provence",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/venue.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -8494,8 +8494,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Avenue du Docteur Bertrand, 13100 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -8510,8 +8510,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin des Infirmeries, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -8526,8 +8526,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin du Viaduc, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -8542,8 +8542,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "927, Route d'Apt, La Duranne, 13290 Aix-en-Provence",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -8558,8 +8558,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Chemin d'Antonelle, 13090 Aix-en-Provence",
       "Secteur": "Nord"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -8574,8 +8574,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "Traverse Thibaud, 13100 Aix-en-Provence",
       "Secteur": "Est & Centre"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -8590,8 +8590,8 @@ window.CLUB_DIRECTORY = [
       "Adresse": "13290 Les Milles",
       "Secteur": "Sud"
     },
-    "image": "/assets/clubs/target.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/target.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -8612,8 +8612,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Ven 11h-22h, Sam-Dim 10h-20h",
       "Tarif": "Enfant -10 ans : 10€/séance ; Normal : 16€/séance (13€ avant 16h en semaine) ; Réduit : 15€/séance (13€ avant 16h)"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 2
   },
@@ -8633,8 +8633,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - voir aix-lesmilles.climb-up.fr/tarifs-escalade",
       "Tarif": "Entrée à l'unité, carte 10 entrées ou pass - montants non extraits, voir site"
     },
-    "image": "/assets/clubs/mountain.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/mountain.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 3
   },
@@ -8654,8 +8654,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Semaine 6h-22h30, weekend 9h-19h (certains clubs 24/7)",
       "Tarif": "À partir de 19,99€/4 semaines (abonnement de base) ; engagement possible 12 mois puis résiliable avec préavis 15 jours ; 1ère séance offerte"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 4
   },
@@ -8675,8 +8675,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h-23h, 7j/7, 365j/an",
       "Tarif": "À partir de 24,99-30€/4 semaines, jusqu'à 50€/mois pour la formule Ultimate (accès illimité)"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 5
   },
@@ -8696,8 +8696,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Variable selon club, réseau Neoness-KeepCool",
       "Tarif": "Réseau mutualisé avec Neoness, accès multi-clubs, à partir de ~14,90€/mois selon formule"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 6
   },
@@ -8717,8 +8717,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Cours collectifs YAKO de 10h à 20h, 30 à 50 cours/semaine",
       "Tarif": "Abonnement 12 mois (accès à toutes les salles L'Orange Bleue en France/DOM-TOM), tarif non communiqué précisément - devis en salle"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 7
   },
@@ -8738,8 +8738,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Ven 7h-22h, Weekend 9h-20h (7j/7)",
       "Tarif": "Accès à 270+ salles du réseau Neoness-Keepcool ; à partir de ~14,90€/mois selon formule ; offre 8 semaines offertes en cours (724 Avenue du Club Hippique, anciennement Metabolik, 850m²)"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 8
   },
@@ -8758,8 +8758,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun/Mar/Jeu 16h-21h, Mer 10h-21h, Ven 16h-22h, Sam 10h-22h, Dim 10h-20h (horaires étendus pendant vacances scolaires)",
       "Tarif": "1h Free Jump : 13€ ; 2h : 20€ ; 1h + château gonflable : 17€ ; 2h + château gonflable : 28€ ; chaussettes antidérapantes obligatoires : 2,50€"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 9
   },
@@ -8779,8 +8779,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Ouvert 7j/7, lundi à dimanche",
       "Tarif": "À partir de 49€/mois, sans engagement, formule tout inclus ; offre de rentrée 100€ offerts"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 10
   },
@@ -8801,8 +8801,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - club privé",
       "Tarif": "Accès réservé aux membres (cotisation) et clients de l'hôtel/spa Set Club - tarif de cotisation non public"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 11
   },
@@ -8821,8 +8821,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - padel d'entreprise, 2 terrains extérieurs + buvette, contacter le club"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 12
   },
@@ -8842,8 +8842,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Tous les jours 9h-23h/minuit (heures creuses lun-ven 9h-12h et 14h-17h ; heures pleines lun-ven 12h-14h et 17h-23h, weekend/fériés 9h-23h)",
       "Tarif": "Adulte : de 8 à 12€/joueur (heures creuses/pleines), terrain couvert 14€/joueur ; location raquette 2€ ; tube de 3 balles 6€"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 13
   },
@@ -8863,8 +8863,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "N/A",
       "Tarif": "⚠️ Lifeclub a fermé et a été remplacé par EasyGym (même adresse, 2 Avenue Victor Hugo, La Rotonde) - musculation, fitness, cours collectifs, abonnements sans engagement à partir de 19€/mois. Vérifier si la section boxe thaï est maintenue."
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 14
   },
@@ -8883,8 +8883,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - 56 Avenue Gaston Berger",
       "Tarif": "Non communiqué en ligne - contacter le studio"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 15
   },
@@ -8903,8 +8903,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter l'école"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 16
   },
@@ -8923,8 +8923,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément",
       "Tarif": "Non communiqué en ligne - contacter l'école (justlatino.net)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 17
   },
@@ -8943,8 +8943,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Cours réguliers de septembre à juin, hors vacances scolaires",
       "Tarif": "Grille tarifaire 2024-2025 sur mkfusion.fr/tarifs (montants non extraits) - abonnement annuel payable en 10 fois ; anciennement nommée \"Happy Voice\" (renommée en 2022)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 18
   },
@@ -8963,8 +8963,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Cours toute l'année (septembre à juin) sur 4 lieux à Aix-en-Provence et Venelles",
       "Tarif": "Pass Solo (1 personne) : 450€/an (~45€/mois sur 10 mois) - accès illimité à tous les cours ; Pass Famille : 800€/an (~80€/mois sur 10 mois) - accès illimité pour toute la famille proche"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 19
   },
@@ -8983,8 +8983,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 20
   },
@@ -9003,8 +9003,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 21
   },
@@ -9023,8 +9023,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Ven 8h-22h, Sam 8h30-18h",
       "Tarif": "Établissement public (Mairie d'Aix), tarifs généralement basés sur le quotient familial - montants non extraits, voir aixenprovence.fr/Conservatoire"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 22
   },
@@ -9044,8 +9044,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun 8h-19h, Mar/Jeu 9h-20h, Mer 8h-20h, Ven 8h-18h, Sam 10h-13h",
       "Tarif": "Tarifs sur thepilatesplace.fr - moyenne marché Aix : ~15-30€/séance collectif tapis, 27-42€/séance reformer petit groupe"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 23
   },
@@ -9065,8 +9065,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - entre Puyricard et Venelles",
       "Tarif": "Cours reformer privés 75€/séance, ou 70€/cours en carte"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 24
   },
@@ -9086,8 +9086,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément",
       "Tarif": "Cours collectifs Wall Unit à partir de 38€/séance"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 25
   },
@@ -9107,8 +9107,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - voir b-club.fr",
       "Tarif": "Non communiqué en ligne - contacter le club (groupes limités à 6 personnes)"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 26
   },
@@ -9128,8 +9128,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Page tarifs en ligne actuellement vide - contacter le studio (2 Av. Jules Ferry)"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 27
   },
@@ -9149,8 +9149,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Ven 8h-20h, Sam 9h-13h, Dim 9h-12h",
       "Tarif": "Offre découverte Reformer 2 séances 55€ ; Pack 5 séances Reformer 155€ ; Pack 10 séances Mat 220€ ; Abonnement 1 séance Mat/semaine 88€"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 28
   },
@@ -9170,8 +9170,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le studio"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 29
   },
@@ -9191,8 +9191,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Séances de 30 min, sur réservation en ligne, en bassins partenaires ou à domicile",
       "Tarif": "Tarifs détaillés sur maitrebaigneur.com/tarifs (montants non extraits) - paiement après le 1er cours, pas de crédit"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 30
   },
@@ -9212,8 +9212,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - au sein de la Clinique Axium (Hydraxium)",
       "Tarif": "Tarifs non extraits - voir masalledesport.com, fiche GP Coaching ; activités : aquabike, aquagym, bébés nageurs, natation, électrostimulation Miha Bodytec, pilates, cardio-combat"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 31
   },
@@ -9233,8 +9233,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Toute l'année, y compris pendant les vacances scolaires - leçons 1h en collectif, 3/4h à 2, 1/2h individuel",
       "Tarif": "Tarifs 2024-2025 : Adhésion 140€/an ; Licence -18 ans 28€, +18 ans 38€ ; Leçon à l'essai/adhérent 30€ ; Carte 10 cours (4 mois) 250€ ; Forfait annuel 1 leçon/sem 800€, 2 leçons/sem 1300€ ; non-adhérent 45€/leçon. Propriétaires : pension box avec cours 550€/mois, sans cours 680€/mois ; pension paddock+abri avec cours 330€/mois, sans cours 485€/mois"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 32
   },
@@ -9253,8 +9253,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le centre"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 33
   },
@@ -9273,8 +9273,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le centre"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 34
   },
@@ -9293,8 +9293,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le centre"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 35
   },
@@ -9313,8 +9313,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le centre"
     },
-    "image": "/assets/clubs/horse.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/horse.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 36
   },
@@ -9334,8 +9334,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Intégré à la scolarité de l'IBS",
       "Tarif": "Non communiqué en ligne - académie réservée aux élèves inscrits à l'IBS, tarif intégré aux frais de scolarité"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 37
   },
@@ -9355,8 +9355,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Tous les jours 8h-19h30",
       "Tarif": "Green-fee 9 trous 52€ / 18 trous 75€ ; étudiant -25 ans 47€ ; forfait x4 green-fee 9 trous 187€ / 18 trous 270€ ; abonnement adulte individuel 2050€/an, couple 3400€/an, -18 ans 700€/an ; practice carte 10 seaux 20€"
     },
-    "image": "/assets/clubs/golf.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/golf.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 38
   },
@@ -9376,8 +9376,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Toute l'année, tous les jours 9h-19h",
       "Tarif": "À partir de 50€/pers (VTT électrique + moniteur/guide tout compris) ; prestation tout compris à partir de 95€/pers selon circuit et groupe"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 39
   },
@@ -9397,8 +9397,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun, Mar, Jeu-Sam 9h-12h et 14h-18h (fermé mercredi, dimanche, jours fériés sauf commande groupes)",
       "Tarif": "Location à partir de 3€/heure ; demi-journée à partir de 9h ou 14h ; visites/circuits sur devis (groupes ≥5 personnes)"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 40
   },
@@ -9417,8 +9417,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 41
   },
@@ -9438,8 +9438,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Plus de 80h de cours/semaine, 7h-21h du lundi au dimanche",
       "Tarif": "Abonnement illimité 80€/mois ; Open Gym Only 50€/mois ; cartes 5 à 20 séances ; drop-in 15€/séance ; 1er cours offert"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 42
   },
@@ -9459,8 +9459,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 43
   },
@@ -9479,8 +9479,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément - voir DKM Sport, 585 Avenue Jean Dalmas",
       "Tarif": "Formules 1 mois / 3 mois en accès illimité (cours collectifs + plateau muscu/cardio) - montant exact non communiqué en ligne"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 44
   },
@@ -9499,8 +9499,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "N/A",
       "Tarif": "⚠️ Metabolik Aix-en-Provence a été renommé Neoness Aix-en-Provence (même adresse, 724 Avenue du Club Hippique) - c'est le même club, voir la fiche Neoness dans ce tableau pour les infos à jour"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 45
   },
@@ -9519,8 +9519,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 46
   },
@@ -9539,8 +9539,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne (cadre intimiste, coaching individuel)",
       "Tarif": "Non communiqué en ligne - contacter le centre"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 47
   },
@@ -9561,8 +9561,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Ven 8h-21h, Sam 9h-18h, Dim 9h-14h",
       "Tarif": "Offre découverte : 2 cours pour 30€ ; abonnements ensuite personnalisés avec un coach (montant exact non public) ; via UrbanSportsClub à partir de 33€/mois (accès multi-salles)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 48
   },
@@ -9581,8 +9581,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 49
   },
@@ -9602,8 +9602,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun-Jeu et Dim 14h-1h, Ven-Sam 14h-2h",
       "Tarif": "De 2€ à 7€ la partie selon jour/heure ; 2€ le lundi (hors location chaussures) ; formule pizza-bowling 15€/pers (partie + chaussures + boisson + pizza) ; 3 parties achetées = 4e offerte (sauf lundi)"
     },
-    "image": "/assets/clubs/boules.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bowling.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 50
   },
@@ -9622,8 +9622,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 51
   },
@@ -9642,8 +9642,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 52
   },
@@ -9662,8 +9662,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 53
   },
@@ -9682,8 +9682,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 54
   },
@@ -9702,8 +9702,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 55
   },
@@ -9722,8 +9722,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 56
   },
@@ -9742,8 +9742,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 57
   },
@@ -9762,8 +9762,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 58
   },
@@ -9782,8 +9782,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 59
   },
@@ -9802,8 +9802,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 60
   },
@@ -9822,8 +9822,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 61
   },
@@ -9842,8 +9842,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 62
   },
@@ -9862,8 +9862,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 63
   },
@@ -9882,8 +9882,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 64
   },
@@ -9902,8 +9902,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 65
   },
@@ -9922,8 +9922,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 66
   },
@@ -9942,8 +9942,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 67
   },
@@ -9962,8 +9962,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 68
   },
@@ -9982,8 +9982,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 69
   },
@@ -10002,8 +10002,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 70
   },
@@ -10022,8 +10022,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 71
   },
@@ -10042,8 +10042,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bmx.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 72
   },
@@ -10062,8 +10062,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 73
   },
@@ -10082,8 +10082,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/basket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/basket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 74
   },
@@ -10102,8 +10102,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/basket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/basket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 75
   },
@@ -10122,8 +10122,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/basket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/basket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 76
   },
@@ -10142,8 +10142,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 77
   },
@@ -10162,8 +10162,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 78
   },
@@ -10182,8 +10182,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 79
   },
@@ -10202,8 +10202,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 80
   },
@@ -10222,8 +10222,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 81
   },
@@ -10242,8 +10242,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 82
   },
@@ -10262,8 +10262,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 83
   },
@@ -10282,8 +10282,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 84
   },
@@ -10302,8 +10302,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 85
   },
@@ -10322,8 +10322,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 86
   },
@@ -10342,8 +10342,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 87
   },
@@ -10362,8 +10362,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 88
   },
@@ -10382,8 +10382,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 89
   },
@@ -10402,8 +10402,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 90
   },
@@ -10422,8 +10422,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 91
   },
@@ -10442,8 +10442,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/combat.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 92
   },
@@ -10462,8 +10462,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/yoga.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/yoga.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 93
   },
@@ -10482,8 +10482,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/venue.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/multisport.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 94
   },
@@ -10502,8 +10502,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 95
   },
@@ -10522,8 +10522,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/rugby.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/rugby.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 96
   },
@@ -10542,8 +10542,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/ball.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/ball.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 97
   },
@@ -10562,8 +10562,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/bike.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/bike.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 98
   },
@@ -10582,8 +10582,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter le club"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/padel.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 99
   },
@@ -10602,8 +10602,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Toute l'année - 3 courts de tennis, club-house",
       "Tarif": "Programme national à vocation sociale/éducative - tarif non communiqué en ligne, contacter l'association"
     },
-    "image": "/assets/clubs/racket.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/racket.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 100
   },
@@ -10622,8 +10622,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Sorties de groupe régulières (voir page Facebook)",
       "Tarif": "Gratuit / informel - groupe de course à pied sans structure commerciale apparente"
     },
-    "image": "/assets/clubs/run.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/trail.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 101
   },
@@ -10642,8 +10642,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Mardi, mercredi, samedi - Piscine du CSU, Aix-en-Provence",
       "Tarif": "Adhésion association obligatoire : 15€/an ; tarif annuel 1 fois/semaine : 210€/an"
     },
-    "image": "/assets/clubs/water.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/water.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 102
   },
@@ -10662,8 +10662,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/air.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/air.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 103
   },
@@ -10682,8 +10682,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/air.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/parachute.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 104
   },
@@ -10704,8 +10704,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément",
       "Tarif": "Cotisation + licence non chiffrées en ligne - inscription via HelloAsso, contacter le club"
     },
-    "image": "/assets/clubs/combat.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fencing.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 105
   },
@@ -10724,8 +10724,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 106
   },
@@ -10744,8 +10744,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué précisément",
       "Tarif": "Non communiqué en ligne - contacter l'association ; activités : danse, fitness, coaching, yoga (235 Rue Jean de Guiramand, Les Milles)"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 107
   },
@@ -10764,8 +10764,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Non communiqué en ligne",
       "Tarif": "Non communiqué en ligne - contacter directement (petite structure/association sans tarifs publiés)"
     },
-    "image": "/assets/clubs/wheels.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/skate.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 108
   },
@@ -10784,8 +10784,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h, 7j/7",
       "Tarif": "Entrée / milieu de gamme"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 109
   },
@@ -10804,8 +10804,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h, 7j/7",
       "Tarif": "≈ 34,99 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 110
   },
@@ -10824,8 +10824,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h semaine",
       "Tarif": "≈ 31,96 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 111
   },
@@ -10844,8 +10844,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "24h/24, 7j/7",
       "Tarif": "≈ 30 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 112
   },
@@ -10864,8 +10864,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–22h semaine",
       "Tarif": "≈ 34,99 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 113
   },
@@ -10884,8 +10884,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h, 7j/7",
       "Tarif": "≈ 34,99 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 114
   },
@@ -10904,8 +10904,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h, 7j/7",
       "Tarif": "≈ 34,99 €/4 sem."
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 115
   },
@@ -10924,8 +10924,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "6h–23h, 7j/7",
       "Tarif": "Sur demande"
     },
-    "image": "/assets/clubs/fitness.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/fitness.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 116
   },
@@ -10944,8 +10944,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Lun.–sam.",
       "Tarif": "Selon niveau"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 117
   },
@@ -10964,8 +10964,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Selon planning",
       "Tarif": "Sur demande"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 118
   },
@@ -10984,8 +10984,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Journée + soirée",
       "Tarif": "Selon cours"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 119
   },
@@ -11004,8 +11004,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Jusqu'à ≈22h",
       "Tarif": "Selon formule"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 120
   },
@@ -11024,8 +11024,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Selon planning",
       "Tarif": "Sur demande"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 121
   },
@@ -11044,8 +11044,8 @@ window.CLUB_DIRECTORY = [
       "Horaires": "Cursus spécifique",
       "Tarif": "Selon formation"
     },
-    "image": "/assets/clubs/dance.svg",
-    "imageCredit": "Illustration du sport, créée pour Aix Sport Local",
+    "image": "assets/clubs/dance.svg",
+    "imageCredit": "Pictogramme original de la discipline · Aix Sport Local",
     "imageSource": "",
     "sourceRow": 122
   }

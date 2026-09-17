@@ -8,7 +8,8 @@ Les fiches sont partagées avec le code dans clubs-data.js, sans dépendance au 
 Les contenus de clubs ajoutés manuellement continuent à apparaître dans l’annuaire.
 
 ## Visuels
-Illustrations SVG originales par famille de sport dans assets/clubs.
+51 pictogrammes SVG originaux dans assets/clubs : silhouettes bleu foncé sur fond clair, inspirées de la signalétique sportive.
+Les disciplines proches partagent un pictogramme ; badminton, tennis, padel, tennis de table, boxe et judo ont notamment leurs propres dessins.
 Elles illustrent une discipline et ne représentent pas une photo des installations.
 Logos officiels destinés à identifier les clubs ; droits conservés par leurs propriétaires :
 - Provence Rugby : https://www.provencerugby.com/ (wp-content/uploads/2023/07/Logo.svg)
@@ -17,6 +18,8 @@ Logos officiels destinés à identifier les clubs ; droits conservés par leurs 
 
 ## Modification
 Modifier les fiches dans clubs-data.js : name, discipline, fields, image.
+Les images utilisent un chemin relatif, par exemple assets/clubs/badminton.svg, sans / initial, pour fonctionner sur GitHub Pages et en local.
+Pour modifier ou régénérer les pictogrammes : éditer scripts/build-club-pictograms.cjs puis exécuter node scripts/build-club-pictograms.cjs. Ce script met à jour les visuels et leurs attributions, en conservant les trois logos officiels et les informations des fiches.
 Les identifiants doivent rester uniques et stables pour conserver les liens.
 Pour ajouter une image locale, la placer dans assets/clubs avec un nom en minuscules
 (lettres, chiffres et tirets), au format png, jpg, webp ou svg.
