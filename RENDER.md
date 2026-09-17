@@ -32,3 +32,9 @@ L'offre Render gratuite se met en veille après 15 minutes sans trafic et peut p
 La bibliothèque Leaflet et sa licence sont livrées dans `vendor/` pour que la carte fonctionne aussi dans le sous-dossier GitHub Pages. Les tests vérifient la connexion sans cookies tiers, l'isolation des comptes, la sauvegarde du planning, les origines refusées et la déconnexion.
 
 Documentation : [Render et Atlas](https://render.com/docs/connect-to-mongodb-atlas), [limites gratuites](https://render.com/docs/free).
+
+## Service du projet
+
+- API : https://sportsensemble-api.onrender.com
+- Identifiant Render : `srv-dam2537qj5pc73bidpdg`.
+- Plages sortantes constatées lors de la configuration : `74.220.51.0/24` et `74.220.59.0/24`. Ces réseaux sont partagés par les services Render de la région ; vérifier la liste actuelle dans Render avant un changement.
