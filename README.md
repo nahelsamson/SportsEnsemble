@@ -26,6 +26,10 @@ GitHub distribue le code, sans `node_modules` ni `.env`. Le réglage Atlas effec
 
 Pour simplement consulter le site sans installer Node.js ni configurer Atlas sur chaque ordinateur, il faut héberger aussi le serveur web et partager son adresse HTTPS. Atlas héberge uniquement la base de données.
 
+### Partager un lien de test
+
+Sur le PC configuré avec Atlas et Cloudflare, lancer **`npm run site:remote`** ou **`Partager-Site.ps1`**, puis transmettre l'adresse HTTPS affichée. Les autres ouvrent ce lien et utilisent leur compte SportsEnsemble, sans installation. Le PC hôte doit rester allumé. Voir [SITE-PUBLIC.md](SITE-PUBLIC.md) pour les étapes et les limites.
+
 ## Fonctions
 
 - Accueil, actualités, agenda, résultats, clubs et fiches détaillées.

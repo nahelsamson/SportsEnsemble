@@ -16,6 +16,7 @@ android/local.properties
 .private/
 .tools/
 mobile-server-url.txt
+site-public-url.txt
 *.apk
 *.aab
 android/Installer-Android.png
