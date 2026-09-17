@@ -25,7 +25,7 @@ L'API vérifie le compte à chaque requête. Les sessions distantes sont limité
 
 ## Mises à jour et limites
 
-Un push dans `main` met à jour GitHub Pages selon ses réglages de publication. Pour Render, activer le déploiement automatique avec l'intégration GitHub ; avec un dépôt public sans intégration, il faut un déclencheur de déploiement ou utiliser Manual Deploy. Ne jamais publier un deploy hook dans les fichiers publics.
+Un push dans `main` met à jour GitHub Pages selon ses réglages de publication. Pour Render, le workflow `.github/workflows/render.yml` installe les dépendances, vérifie le code, exécute les tests avec une base MongoDB temporaire puis demande le déploiement du commit exact. Le déclencheur est conservé dans le secret GitHub Actions `RENDER_DEPLOY_HOOK_URL`, jamais dans les fichiers publics. Suivre les résultats dans GitHub > Actions puis Render > Deploys. Un test échoué empêche le déploiement du serveur ; GitHub Pages possède sa propre publication.
 
 L'offre Render gratuite se met en veille après 15 minutes sans trafic et peut prendre environ une minute pour redémarrer. Le navigateur attend jusqu'à 90 secondes avant de proposer de réessayer. Les comptes et plannings restent sauvegardés dans Atlas lors d'un redémarrage ou déploiement. Les articles et photos saisis restent propres à chaque navigateur : cet hébergement n'en fait pas un stockage partagé.
 

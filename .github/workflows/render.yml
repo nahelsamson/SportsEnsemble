@@ -1,0 +1,53 @@
+name: Tester et deployer sur Render
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: render-main
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    services:
+      mongodb:
+        image: mongo:8.0
+        ports:
+          - 27017:27017
+        options: >-
+          --health-cmd "mongosh --quiet --eval 'db.adminCommand({ping:1}).ok'"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24.14.1'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run check
+      - run: npm test
+        env:
+          TEST_MONGODB_URI: mongodb://127.0.0.1:27017
+      - name: Deployer le commit valide
+        env:
+          RENDER_DEPLOY_HOOK_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
+        run: |
+          node <<'NODE'
+          (async () => {
+            if (!process.env.RENDER_DEPLOY_HOOK_URL) throw Error('Configuration manquante');
+            const url = new URL(process.env.RENDER_DEPLOY_HOOK_URL);
+            if (url.protocol !== 'https:' || url.hostname !== 'api.render.com' || url.pathname !== '/deploy/srv-dam2537qj5pc73bidpdg') throw Error('Destination invalide');
+            url.searchParams.set('ref', process.env.GITHUB_SHA);
+            const response = await fetch(url, {method:'POST', redirect:'error', signal:AbortSignal.timeout(60000)});
+            if (!response.ok) throw Error('Reponse invalide');
+            console.log('Tests reussis. Deploiement du commit demande a Render.');
+          })().catch(() => { console.error('Declenchement Render impossible. Verifier le secret et le service Render.'); process.exitCode = 1; });
+          NODE
