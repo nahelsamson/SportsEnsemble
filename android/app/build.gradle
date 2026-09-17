@@ -1,0 +1,20 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'fr.sportsensemble.agenda'
+    compileSdk 36
+    buildFeatures { resValues true }
+    defaultConfig {
+        applicationId 'fr.sportsensemble.agenda'
+        minSdk 26
+        targetSdk 36
+        versionCode 1
+        versionName '0.1.0'
+        resValue 'string', 'default_server_url', (project.findProperty('mobileServer') ?: '')
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    // A local key lets subsequent debug APKs update the installed app.
+    signingConfigs { debug { storeFile file('../../.private/android-debug.keystore') } }
+}

@@ -9,3 +9,15 @@ Thumbs.db
 .idea/
 aix-sport-sauvegarde-*.json
 *.bak
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+.private/
+.tools/
+mobile-server-url.txt
+*.apk
+*.aab
+android/Installer-Android.png
+*.apk.new
+android/Installer-Android-*.png

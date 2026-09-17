@@ -1,0 +1,6648 @@
+{
+  "Impact Fight Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.5151515151515151,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.46060606060606063,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.36723044397463,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Eagles Cheerleading Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.427807486631016,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3732620320855615,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.34897959183673466,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Groupe Universitaire de Montagne et de Ski Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.452114,
+          43.51765
+        ]
+      },
+      "properties": {
+        "name": [
+          "Piscine du Centre Sportif et Universitaire"
+        ],
+        "toponym": "Piscine du Centre Sportif et Universitaire",
+        "category": [
+          "piscine",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208594"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3973392461197339,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.453023,
+          43.518638
+        ]
+      },
+      "properties": {
+        "name": [
+          "Centre Sportif Universitaire"
+        ],
+        "toponym": "Centre Sportif Universitaire",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000239056569"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.371990171990172,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.451325,
+          43.532977
+        ]
+      },
+      "properties": {
+        "name": [
+          "Institut universitaire de technologie"
+        ],
+        "toponym": "Institut universitaire de technologie",
+        "category": [
+          "université",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002489542048"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3616161616161616,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Aqua Fitness Plazza Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.427807486631016,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.4197628458498024,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3732620320855615,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Artémis Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.6115702479338843,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5570247933884298,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.4047846889952153,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Body Arts Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44101,
+          43.530438
+        ]
+      },
+      "properties": {
+        "name": [
+          "École d'Arts"
+        ],
+        "toponym": "École d'Arts",
+        "category": [
+          "enseignement supérieur",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040210545"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.46044226044226044,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.455,
+          43.529856
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Nationale des Arts et Métiers"
+        ],
+        "toponym": "École Nationale des Arts et Métiers",
+        "category": [
+          "enseignement supérieur",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000239131059"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.3363636363636363,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449108,
+          43.526008
+        ]
+      },
+      "properties": {
+        "name": [
+          "Hôtel de Caumont - Centre d'Art"
+        ],
+        "toponym": "Hôtel de Caumont - Centre d'Art",
+        "category": [
+          "musée",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000356382252"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.32662337662337665,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Fitness Stel Duranne Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353064,
+          43.495994
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Petite Duranne"
+        ],
+        "toponym": "la Petite Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324539"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4625,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358519,
+          43.490734
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Grande Duranne"
+        ],
+        "toponym": "la Grande Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324520"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4127272727272728,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.345446,
+          43.494885
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc de la Duranne"
+        ],
+        "toponym": "Parc de la Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324545"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4053475935828877,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Les Vieux Crampons Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.419378,
+          43.555758
+        ]
+      },
+      "properties": {
+        "name": [
+          "Place du Vieux Lavoir"
+        ],
+        "toponym": "Place du Vieux Lavoir",
+        "category": [
+          "parking",
+          "transport",
+          "équipement de transport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "EQ_RESEA0000000130191036"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.35454545454545455,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Z5 Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.6363636363636362,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5818181818181818,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420805,
+          43.515455
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix Golf"
+        ],
+        "toponym": "Aix Golf",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000258705812"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.47840909090909084,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Étoile Sportive Milloise Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.425659,
+          43.57369
+        ]
+      },
+      "properties": {
+        "name": [
+          "Clinique Maternité de l'Étoile"
+        ],
+        "toponym": "Clinique Maternité de l'Étoile",
+        "category": [
+          "hôpital",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208764"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3338842975206612,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Golf Club Aix-Marseille Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365709,
+          43.486089
+        ]
+      },
+      "properties": {
+        "name": [
+          "Golf Club Aix-Marseille"
+        ],
+        "toponym": "Golf Club Aix-Marseille",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002200045637"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.724793388429752,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361133,
+          43.484815
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club du Golf"
+        ],
+        "toponym": "Parc Club du Golf",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324529"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4374331550802139,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384149,
+          43.545754
+        ]
+      },
+      "properties": {
+        "name": [
+          "Set Club"
+        ],
+        "toponym": "Set Club",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208590"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.39169960474308296,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Karaté Club Saint-Eutrope Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454951,
+          43.540214
+        ]
+      },
+      "properties": {
+        "name": [
+          "Saint-Eutrope"
+        ],
+        "toponym": "Saint-Eutrope",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323645"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5343873517786562,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.451334,
+          43.539707
+        ]
+      },
+      "properties": {
+        "name": [
+          "Collège Saint-Eutrope (Quartier)"
+        ],
+        "toponym": "Collège Saint-Eutrope (Quartier)",
+        "category": [
+          "collège",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040210521"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.440909090909091,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384149,
+          43.545754
+        ]
+      },
+      "properties": {
+        "name": [
+          "Set Club"
+        ],
+        "toponym": "Set Club",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208590"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3761363636363636,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Shin Kyô Bû Dô Université Club Karaté Aix-en-Provence": [],
+  "Centre Social et Culturel La Grande Bastide Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.401278,
+          43.494286
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Grande Bastide"
+        ],
+        "toponym": "la Grande Bastide",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324516"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.44545454545454544,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.401636,
+          43.529354
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Grande Bastide"
+        ],
+        "toponym": "la Grande Bastide",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000333446073"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.44545454545454544,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404469,
+          43.488515
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Grande Bastide Haute"
+        ],
+        "toponym": "la Grande Bastide Haute",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120489"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4276679841897233,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Ligue Sud FFSU Aix-en-Provence": [],
+  "Pays d'Aix Natation Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443161,
+          43.50799
+        ]
+      },
+      "properties": {
+        "name": [
+          "Bassin de natation"
+        ],
+        "toponym": "Bassin de natation",
+        "category": [
+          "bassin de natation",
+          "terrain de sport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "TERRSPOR0000000310226266"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4625,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.444461,
+          43.531556
+        ]
+      },
+      "properties": {
+        "name": [
+          "Bassin de natation"
+        ],
+        "toponym": "Bassin de natation",
+        "category": [
+          "bassin de natation",
+          "terrain de sport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "TERRSPOR0000000040316593"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4625,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.417443,
+          43.569005
+        ]
+      },
+      "properties": {
+        "name": [
+          "Bassin de natation"
+        ],
+        "toponym": "Bassin de natation",
+        "category": [
+          "bassin de natation",
+          "terrain de sport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "TERRSPOR0000000040316423"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4625,
+        "_type": "poi"
+      }
+    }
+  ],
+  "A.D.A.M.S Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415534,
+          43.528948
+        ]
+      },
+      "properties": {
+        "name": [
+          "H.L.M. Vega"
+        ],
+        "toponym": "H.L.M. Vega",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324151"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.43439803439803437,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.417309,
+          43.528835
+        ]
+      },
+      "properties": {
+        "name": [
+          "H.L.M. Arcturus"
+        ],
+        "toponym": "H.L.M. Arcturus",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324118"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.425,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.412858,
+          43.527235
+        ]
+      },
+      "properties": {
+        "name": [
+          "H.L.M. Algol"
+        ],
+        "toponym": "H.L.M. Algol",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324096"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.42392344497607654,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Plongée Pays d'Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367799,
+          43.496826
+        ]
+      },
+      "properties": {
+        "name": [
+          "C.F.A. Sainte-Victoire Pays d'Aix"
+        ],
+        "toponym": "C.F.A. Sainte-Victoire Pays d'Aix",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000316919367"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3926040061633282,
+        "_type": "poi"
+      }
+    }
+  ],
+  "La Boule Milloise Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.44886363636363635,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.4090909090909091,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.39431818181818173,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Club Provence Tir Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384149,
+          43.545754
+        ]
+      },
+      "properties": {
+        "name": [
+          "Set Club"
+        ],
+        "toponym": "Set Club",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208590"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3883116883116883,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.302036,
+          43.449848
+        ]
+      },
+      "properties": {
+        "name": [
+          "Stand de tir"
+        ],
+        "toponym": "Zone d'activité ou d'intérêt",
+        "category": [
+          "stand de tir",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002494422468"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3818181818181818,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361133,
+          43.484815
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club du Golf"
+        ],
+        "toponym": "Parc Club du Golf",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324529"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3411764705882353,
+        "_type": "poi"
+      }
+    }
+  ],
+  "AUC Ultimate - T'R'Aix Aix-en-Provence": [],
+  "Beach Experience Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.4604105571847507,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.40586510263929615,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431573,
+          43.524857
+        ]
+      },
+      "properties": {
+        "name": [
+          "DIR Aix-en-Provence"
+        ],
+        "toponym": "DIR Aix-en-Provence",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212587"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.38449197860962564,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Retour au Calme Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.4727272727272727,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4181818181818182,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439201,
+          43.525535
+        ]
+      },
+      "properties": {
+        "name": [
+          "Conservatoire"
+        ],
+        "toponym": "Conservatoire",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002275764947"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.40197628458498025,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Aix Driving Club Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384149,
+          43.545754
+        ]
+      },
+      "properties": {
+        "name": [
+          "Set Club"
+        ],
+        "toponym": "Set Club",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208590"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.42727272727272725,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361133,
+          43.484815
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club du Golf"
+        ],
+        "toponym": "Parc Club du Golf",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324529"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.39431818181818173,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365709,
+          43.486089
+        ]
+      },
+      "properties": {
+        "name": [
+          "Golf Club Aix-Marseille"
+        ],
+        "toponym": "Golf Club Aix-Marseille",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002200045637"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.38006993006993,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Stadium Marius Requier Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.40049140049140053,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376624,
+          43.491642
+        ]
+      },
+      "properties": {
+        "name": [
+          "CEREMA Méditerranée"
+        ],
+        "toponym": "CEREMA Méditerranée",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212610"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.36889952153110045,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3459459459459459,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Complexe sportif Henri Michel Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.403599,
+          43.591268
+        ]
+      },
+      "properties": {
+        "name": [
+          "Michel"
+        ],
+        "toponym": "Michel",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323363"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.38,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.419981,
+          43.525905
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Maternelle Henri Wallon"
+        ],
+        "toponym": "École Maternelle Henri Wallon",
+        "category": [
+          "enseignement primaire",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000239056580"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.33101604278074864,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47107,
+          43.557952
+        ]
+      },
+      "properties": {
+        "name": [
+          "Square du Colonel Henry Moreau"
+        ],
+        "toponym": "Square du Colonel Henry Moreau",
+        "category": [
+          "parking",
+          "transport",
+          "équipement de transport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "EQ_RESEA0000000130192097"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.32857142857142857,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Gymnase R. Ruocco Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.462441,
+          43.510992
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gymnase"
+        ],
+        "toponym": "Gymnase",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002489944818"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.5046683046683047,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391244,
+          43.502623
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gymnase"
+        ],
+        "toponym": "Gymnase",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002490083215"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.5046683046683047,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431719,
+          43.534148
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gymnase Mistral"
+        ],
+        "toponym": "Gymnase Mistral",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002003795691"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.41818181818181815,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Gymnase A. Daudet Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.463392,
+          43.535622
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gymnase Daudet Scolaire"
+        ],
+        "toponym": "Gymnase Daudet Scolaire",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002489962549"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.5339920948616601,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Maison des Arts de Combat Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.455,
+          43.529856
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Nationale des Arts et Métiers"
+        ],
+        "toponym": "École Nationale des Arts et Métiers",
+        "category": [
+          "enseignement supérieur",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000239131059"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.4177747625508819,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44101,
+          43.530438
+        ]
+      },
+      "properties": {
+        "name": [
+          "École d'Arts"
+        ],
+        "toponym": "École d'Arts",
+        "category": [
+          "enseignement supérieur",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040210545"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3945454545454546,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449108,
+          43.526008
+        ]
+      },
+      "properties": {
+        "name": [
+          "Hôtel de Caumont - Centre d'Art"
+        ],
+        "toponym": "Hôtel de Caumont - Centre d'Art",
+        "category": [
+          "musée",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000356382252"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.37832167832167835,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Aréna du Pays d'Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.403947,
+          43.473277
+        ]
+      },
+      "properties": {
+        "name": [
+          "Palais des Sports Arena"
+        ],
+        "toponym": "Palais des Sports Arena",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002011187386"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.42229845626072043,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.401858,
+          43.471824
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parking Relais Aréna"
+        ],
+        "toponym": "Parking Relais Aréna",
+        "category": [
+          "parking",
+          "transport",
+          "équipement de transport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "EQ_RESEA0000002223212155"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.42139037433155074,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367799,
+          43.496826
+        ]
+      },
+      "properties": {
+        "name": [
+          "C.F.A. Sainte-Victoire Pays d'Aix"
+        ],
+        "toponym": "C.F.A. Sainte-Victoire Pays d'Aix",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000316919367"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.40647149460708787,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Piscine Yves Blanc Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461476,
+          43.526216
+        ]
+      },
+      "properties": {
+        "name": [
+          "Piscine Yves Blanc"
+        ],
+        "toponym": "Piscine Yves Blanc",
+        "category": [
+          "piscine",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208596"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.7104895104895104,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Piscine du Val de l'Arc Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.466981,
+          43.510814
+        ]
+      },
+      "properties": {
+        "name": [
+          "Piscine du Val de l'Arc"
+        ],
+        "toponym": "Piscine du Val de l'Arc",
+        "category": [
+          "piscine",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000310226276"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.724793388429752,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Parc Musculation Avenue de l'Europe Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450394,
+          43.528595
+        ]
+      },
+      "properties": {
+        "name": [
+          "Cour d'Appel d'Aix-en-Provence"
+        ],
+        "toponym": "Cour d'Appel d'Aix-en-Provence",
+        "category": [
+          "palais de justice",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212577"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.3654545454545454,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.438074,
+          43.50918
+        ]
+      },
+      "properties": {
+        "name": [
+          "Poste d'Aix-en-Provence - Pont de l'Arc"
+        ],
+        "toponym": "Poste d'Aix-en-Provence - Pont de l'Arc",
+        "category": [
+          "poste",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212588"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.36267942583732055,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443236,
+          43.535647
+        ]
+      },
+      "properties": {
+        "name": [
+          "Site d'Aix-en-Provence"
+        ],
+        "toponym": "Site d'Aix-en-Provence",
+        "category": [
+          "hôpital",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208775"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.3482213438735178,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Skate park / Pumptrack Les Milles Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38868,
+          43.504906
+        ]
+      },
+      "properties": {
+        "name": [
+          "les Milles"
+        ],
+        "toponym": "les Milles",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324533"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4297202797202797,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377833,
+          43.485749
+        ]
+      },
+      "properties": {
+        "name": [
+          "Pôle d'Acitivités d'Aix les Milles"
+        ],
+        "toponym": "Pôle d'Acitivités d'Aix les Milles",
+        "category": [
+          "divers industriel",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209730"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.4113636363636364,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.393076,
+          43.504958
+        ]
+      },
+      "properties": {
+        "name": [
+          "Pumptrack"
+        ],
+        "toponym": "Pumptrack",
+        "category": [
+          "equipement de cyclisme",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002493174077"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3958041958041958,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Skate park Luynes Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420465,
+          43.479339
+        ]
+      },
+      "properties": {
+        "name": [
+          "Château de Luynes"
+        ],
+        "toponym": "Château de Luynes",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000002009275955"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4909090909090909,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422767,
+          43.483697
+        ]
+      },
+      "properties": {
+        "name": [
+          "Luynes"
+        ],
+        "toponym": "Luynes",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324511"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.48851674641148324,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41647,
+          43.488163
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Luynes"
+        ],
+        "toponym": "la Luynes",
+        "category": [
+          "cours d'eau",
+          "hydrographie"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "COURDEAU0000002491701509"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.48636363636363633,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Promenade de la Torse Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465289,
+          43.519802
+        ]
+      },
+      "properties": {
+        "name": [
+          "Bastide de la Torse"
+        ],
+        "toponym": "Bastide de la Torse",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000002011965150"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5411992263056092,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465701,
+          43.525113
+        ]
+      },
+      "properties": {
+        "name": [
+          "Hameau de la Torse"
+        ],
+        "toponym": "Hameau de la Torse",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120660"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5237911025145068,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46767,
+          43.523374
+        ]
+      },
+      "properties": {
+        "name": [
+          "Résidence Val de la Torse"
+        ],
+        "toponym": "Résidence Val de la Torse",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120669"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5083916083916084,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Parc paysager des Restanques Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380867,
+          43.611202
+        ]
+      },
+      "properties": {
+        "name": [
+          "Cimetière Paysager du Grand Saint-Jean"
+        ],
+        "toponym": "Cimetière Paysager du Grand Saint-Jean",
+        "category": [
+          "cimetière"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "nature_detaillee": "",
+          "cleabs": "CIMETIER0000000040315595"
+        },
+        "classification": 5,
+        "territory": "METROPOLE",
+        "score": 0.34909090909090906,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Val Saint André Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.471005,
+          43.519462
+        ]
+      },
+      "properties": {
+        "name": [
+          "Val Saint-André"
+        ],
+        "toponym": "Val Saint-André",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324060"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.7181818181818181,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.466261,
+          43.519495
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gymnase Val Saint-André"
+        ],
+        "toponym": "Gymnase Val Saint-André",
+        "category": [
+          "complexe sportif couvert",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002101960910"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.5760330578512396,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475179,
+          43.51465
+        ]
+      },
+      "properties": {
+        "name": [
+          "Saint-André Haut"
+        ],
+        "toponym": "Saint-André Haut",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120688"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5552106430155211,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Auguste Boyer Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391965,
+          43.506718
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Primaire Auguste Boyer"
+        ],
+        "toponym": "École Primaire Auguste Boyer",
+        "category": [
+          "enseignement primaire",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000219934761"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.48571428571428565,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391816,
+          43.506792
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Maternelle Auguste Boyer"
+        ],
+        "toponym": "École Maternelle Auguste Boyer",
+        "category": [
+          "enseignement primaire",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000219934760"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.46737967914438505,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Couteron Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445945,
+          43.598065
+        ]
+      },
+      "properties": {
+        "name": [
+          "Couteron"
+        ],
+        "toponym": "Couteron",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040322977"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.6852664576802509,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44636,
+          43.599146
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Maternelle Coutheron Fontrousse"
+        ],
+        "toponym": "École Maternelle Coutheron Fontrousse",
+        "category": [
+          "enseignement primaire",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040210468"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3426332288401254,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445868,
+          43.599165
+        ]
+      },
+      "properties": {
+        "name": [
+          "École Primaire Coutheron Fontrousse"
+        ],
+        "toponym": "École Primaire Coutheron Fontrousse",
+        "category": [
+          "enseignement primaire",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000231913082"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3339712918660287,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Défens Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.411954,
+          43.52102
+        ]
+      },
+      "properties": {
+        "name": [
+          "Defens"
+        ],
+        "toponym": "Defens",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120442"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.6727272727272727,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Luynes Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422767,
+          43.483697
+        ]
+      },
+      "properties": {
+        "name": [
+          "Luynes"
+        ],
+        "toponym": "Luynes",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324511"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.6727272727272727,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41647,
+          43.488163
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Luynes"
+        ],
+        "toponym": "la Luynes",
+        "category": [
+          "cours d'eau",
+          "hydrographie"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "COURDEAU0000002491701509"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.6090909090909091,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426252,
+          43.482262
+        ]
+      },
+      "properties": {
+        "name": [
+          "ESAT de Luynes"
+        ],
+        "toponym": "ESAT de Luynes",
+        "category": [
+          "structure d'accueil pour personnes handicapées",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000319204175"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.5090909090909091,
+        "_type": "poi"
+      }
+    }
+  ],
+  "La Duranne Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353064,
+          43.495994
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Petite Duranne"
+        ],
+        "toponym": "la Petite Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324539"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5746411483253588,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358519,
+          43.490734
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Grande Duranne"
+        ],
+        "toponym": "la Grande Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324520"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5746411483253588,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.345446,
+          43.494885
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc de la Duranne"
+        ],
+        "toponym": "Parc de la Duranne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324545"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5608391608391609,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Marcel Cau Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.5490909090909092,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4945454545454546,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400304,
+          43.506596
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Pioline"
+        ],
+        "toponym": "la Pioline",
+        "category": [
+          "divers commercial",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209725"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.3811529933481153,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Ivan Gros Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.5681818181818181,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5136363636363637,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439201,
+          43.525535
+        ]
+      },
+      "properties": {
+        "name": [
+          "Conservatoire"
+        ],
+        "toponym": "Conservatoire",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002275764947"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.3935064935064935,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Arc de Meyran Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4633,
+          43.507932
+        ]
+      },
+      "properties": {
+        "name": [
+          "Arc de Meyran"
+        ],
+        "toponym": "Arc de Meyran",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120652"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.7101604278074867,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454969,
+          43.511842
+        ]
+      },
+      "properties": {
+        "name": [
+          "Arc de Meyran"
+        ],
+        "toponym": "Arc de Meyran",
+        "category": [
+          "pont",
+          "construction",
+          "construction linéaire"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "CONSLINE0000000040307757"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.7101604278074867,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.458371,
+          43.511001
+        ]
+      },
+      "properties": {
+        "name": [
+          "Arc de Meyran"
+        ],
+        "toponym": "Arc de Meyran",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120633"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.7101604278074867,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Country Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.6115702479338843,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5570247933884298,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439201,
+          43.525535
+        ]
+      },
+      "properties": {
+        "name": [
+          "Conservatoire"
+        ],
+        "toponym": "Conservatoire",
+        "category": [
+          "autre établissement d'enseignement",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002275764947"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.4090909090909091,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Salle de boxe du Deffens Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.411954,
+          43.52102
+        ]
+      },
+      "properties": {
+        "name": [
+          "Defens"
+        ],
+        "toponym": "Defens",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120442"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4181818181818182,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465015,
+          43.573848
+        ]
+      },
+      "properties": {
+        "name": [
+          "la Salle"
+        ],
+        "toponym": "la Salle",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323308"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.37727272727272726,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Provence Tir Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.302036,
+          43.449848
+        ]
+      },
+      "properties": {
+        "name": [
+          "Stand de tir"
+        ],
+        "toponym": "Zone d'activité ou d'intérêt",
+        "category": [
+          "stand de tir",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002494422468"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.42727272727272725,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Ball Trap de l'Arbois Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.352906,
+          43.490423
+        ]
+      },
+      "properties": {
+        "name": [
+          "les Terrasses de l'Arbois"
+        ],
+        "toponym": "les Terrasses de l'Arbois",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324544"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.48404802744425385,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343501,
+          43.487997
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club de l'Arbois"
+        ],
+        "toponym": "Parc Club de l'Arbois",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000227879791"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4695187165775401,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.337733,
+          43.491721
+        ]
+      },
+      "properties": {
+        "name": [
+          "Technopôle de l'Arbois"
+        ],
+        "toponym": "Technopôle de l'Arbois",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324547"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.46118881118881117,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Bloc Session Aix-en-Provence Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431573,
+          43.524857
+        ]
+      },
+      "properties": {
+        "name": [
+          "DIR Aix-en-Provence"
+        ],
+        "toponym": "DIR Aix-en-Provence",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212587"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5513986013986013,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443236,
+          43.535647
+        ]
+      },
+      "properties": {
+        "name": [
+          "Site d'Aix-en-Provence"
+        ],
+        "toponym": "Site d'Aix-en-Provence",
+        "category": [
+          "hôpital",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208775"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5484848484848484,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445323,
+          43.522889
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gare d'Aix-en-Provence"
+        ],
+        "toponym": "Gare d'Aix-en-Provence",
+        "category": [
+          "gare voyageurs uniquement",
+          "transport",
+          "équipement de transport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "EQ_RESEA0000000040208216"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4975206611570247,
+        "_type": "poi"
+      }
+    }
+  ],
+  "L'Orange Bleue Aix-en-Provence Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.441248,
+          43.531965
+        ]
+      },
+      "properties": {
+        "name": [
+          "Résidence l'Oiseau Bleu"
+        ],
+        "toponym": "Résidence l'Oiseau Bleu",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120569"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3559659090909091,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.446303,
+          43.531151
+        ]
+      },
+      "properties": {
+        "name": [
+          "Chapelle des Pénitents Bleus"
+        ],
+        "toponym": "Chapelle des Pénitents Bleus",
+        "category": [
+          "culte chrétien",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002201847453"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.3286811779769526,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Work and Padel Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422801,
+          43.536925
+        ]
+      },
+      "properties": {
+        "name": [
+          "Sainte-Anne"
+        ],
+        "toponym": "Sainte-Anne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323694"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3497098646034816,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.456209,
+          43.568688
+        ]
+      },
+      "properties": {
+        "name": [
+          "Anne"
+        ],
+        "toponym": "Anne",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323310"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.34805194805194806,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Z5 Padel Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.5151515151515151,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.46060606060606063,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431573,
+          43.524857
+        ]
+      },
+      "properties": {
+        "name": [
+          "DIR Aix-en-Provence"
+        ],
+        "toponym": "DIR Aix-en-Provence",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212587"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.4117988394584139,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Lifeclub Aix-en-Provence Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431573,
+          43.524857
+        ]
+      },
+      "properties": {
+        "name": [
+          "DIR Aix-en-Provence"
+        ],
+        "toponym": "DIR Aix-en-Provence",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212587"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5920454545454545,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443236,
+          43.535647
+        ]
+      },
+      "properties": {
+        "name": [
+          "Site d'Aix-en-Provence"
+        ],
+        "toponym": "Site d'Aix-en-Provence",
+        "category": [
+          "hôpital",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208775"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5609625668449196,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445323,
+          43.522889
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gare d'Aix-en-Provence"
+        ],
+        "toponym": "Gare d'Aix-en-Provence",
+        "category": [
+          "gare voyageurs uniquement",
+          "transport",
+          "équipement de transport"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "EQ_RESEA0000000040208216"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5336898395721924,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Studio Pilates Aix-en-Provence Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431573,
+          43.524857
+        ]
+      },
+      "properties": {
+        "name": [
+          "DIR Aix-en-Provence"
+        ],
+        "toponym": "DIR Aix-en-Provence",
+        "category": [
+          "autre service déconcentré de l'etat",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040212587"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5576329331046311,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443236,
+          43.535647
+        ]
+      },
+      "properties": {
+        "name": [
+          "Site d'Aix-en-Provence"
+        ],
+        "toponym": "Site d'Aix-en-Provence",
+        "category": [
+          "hôpital",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208775"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.5311688311688311,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445458,
+          43.522741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Gare d'Aix-en-Provence"
+        ],
+        "toponym": "Gare d'Aix-en-Provence",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000320335233"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.48133971291866023,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Balance Studio Aix Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.432782,
+          43.521406
+        ]
+      },
+      "properties": {
+        "name": [
+          "Zup la Balance"
+        ],
+        "toponym": "Zup la Balance",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120358"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4276679841897233,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Espace Atome Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369316,
+          43.49497
+        ]
+      },
+      "properties": {
+        "name": [
+          "Résidence Espace Wagner"
+        ],
+        "toponym": "Résidence Espace Wagner",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000220120503"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.40371057513914654,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Écuries du Serre Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390769,
+          43.500155
+        ]
+      },
+      "properties": {
+        "name": [
+          "Écurie du Serre"
+        ],
+        "toponym": "Écurie du Serre",
+        "category": [
+          "centre équestre",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000002003572264"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.6425837320574163,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Les Poneys du Pey Blanc Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.402762,
+          43.542488
+        ]
+      },
+      "properties": {
+        "name": [
+          "Pey Blanc"
+        ],
+        "toponym": "Pey Blanc",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040323718"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.48264462809917347,
+        "_type": "poi"
+      }
+    }
+  ],
+  "CrossFit Gaius Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38086,
+          43.518436
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "administratif",
+          "commune"
+        ],
+        "postcode": [
+          "13080"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "extrafields": {
+          "population": "149695",
+          "status": "chef-lieu d'arrondissement",
+          "cleabs": "COMMUNE_0000000009760349"
+        },
+        "classification": 1,
+        "territory": "METROPOLE",
+        "score": 0.4858934169278997,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415369,
+          43.538741
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix-en-Provence"
+        ],
+        "toponym": "Aix-en-Provence",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324090"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4313479623824451,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420805,
+          43.515455
+        ]
+      },
+      "properties": {
+        "name": [
+          "Aix Golf"
+        ],
+        "toponym": "Aix Golf",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000258705812"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3574279379157428,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Bowling du Bras d'Or Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443258,
+          43.52689
+        ]
+      },
+      "properties": {
+        "name": [
+          "Logis du Bras d'Or"
+        ],
+        "toponym": "Logis du Bras d'Or",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000002201847451"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.5343873517786562,
+        "_type": "poi"
+      }
+    }
+  ],
+  "TARVOS Krav Maga Club Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384149,
+          43.545754
+        ]
+      },
+      "properties": {
+        "name": [
+          "Set Club"
+        ],
+        "toponym": "Set Club",
+        "category": [
+          "golf",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040208590"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.3818181818181818,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361133,
+          43.484815
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club du Golf"
+        ],
+        "toponym": "Parc Club du Golf",
+        "category": [
+          "lieu-dit habité",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324529"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.360548885077187,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343501,
+          43.487997
+        ]
+      },
+      "properties": {
+        "name": [
+          "Parc Club de l'Arbois"
+        ],
+        "toponym": "Parc Club de l'Arbois",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000227879791"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.3577922077922078,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Les Footballeurs des Milles Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38868,
+          43.504906
+        ]
+      },
+      "properties": {
+        "name": [
+          "les Milles"
+        ],
+        "toponym": "les Milles",
+        "category": [
+          "quartier",
+          "zone d'habitation"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "PAIHABIT0000000040324533"
+        },
+        "classification": 7,
+        "territory": "METROPOLE",
+        "score": 0.4625,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377833,
+          43.485749
+        ]
+      },
+      "properties": {
+        "name": [
+          "Pôle d'Acitivités d'Aix les Milles"
+        ],
+        "toponym": "Pôle d'Acitivités d'Aix les Milles",
+        "category": [
+          "divers industriel",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209730"
+        },
+        "classification": 2,
+        "territory": "METROPOLE",
+        "score": 0.43074866310160426,
+        "_type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38153,
+          43.503934
+        ]
+      },
+      "properties": {
+        "name": [
+          "Mémorial du Camp des Milles"
+        ],
+        "toponym": "Mémorial du Camp des Milles",
+        "category": [
+          "musée",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000329008112"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.4142857142857142,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Allure Libre Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.451645,
+          43.51655
+        ]
+      },
+      "properties": {
+        "name": [
+          "Faculté Libre de Théologie Reformée"
+        ],
+        "toponym": "Faculté Libre de Théologie Reformée",
+        "category": [
+          "université",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000239131021"
+        },
+        "classification": 9,
+        "territory": "METROPOLE",
+        "score": 0.33181818181818185,
+        "_type": "poi"
+      }
+    }
+  ],
+  "Outlaws AMU Football Aix-en-Provence": [],
+  "Aéro Club Air France Provence Aviation Aix-en-Provence": [],
+  "Studio du Faubourg Aix-en-Provence": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443626,
+          43.529073
+        ]
+      },
+      "properties": {
+        "name": [
+          "Église Saint-Jean-Baptiste du Faubourg"
+        ],
+        "toponym": "Église Saint-Jean-Baptiste du Faubourg",
+        "category": [
+          "culte chrétien",
+          "zone d'activité ou d'intérêt"
+        ],
+        "postcode": [
+          "13080",
+          "13090",
+          "13100",
+          "13290",
+          "13540"
+        ],
+        "citycode": [
+          "13001"
+        ],
+        "depcode": [
+          "13"
+        ],
+        "city": [
+          "Aix-en-Provence"
+        ],
+        "extrafields": {
+          "cleabs": "SURFACTI0000000040209161"
+        },
+        "classification": 4,
+        "territory": "METROPOLE",
+        "score": 0.42159090909090907,
+        "_type": "poi"
+      }
+    }
+  ]
+}

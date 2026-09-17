@@ -1,52 +1,97 @@
 # SportsEnsemble — Aix Sport Local
 
-Premier site local d'informations sportives pour Aix-en-Provence et le Pays d'Aix. Interface en français, adaptée aux ordinateurs et aux téléphones.
+Site d'informations sportives pour Aix-en-Provence et le Pays d'Aix. Interface en français, adaptée aux ordinateurs et téléphones.
 
-## Démarrer
+## Démarrer dans VS Code
 
-Prérequis : Node.js 22 ou supérieur. Aucune bibliothèque supplémentaire à installer.
+Prérequis : Node.js 22 ou supérieur et MongoDB Server local. Compass est l'interface permettant de consulter la base.
 
-```sh
+Ouvrir le dossier du projet, puis lancer dans son terminal :
+
+```powershell
+npm install
 npm start
 ```
 
-Ouvrir **http://localhost:9010**. Garder le terminal ouvert. Sur Windows, vous pouvez aussi double-cliquer sur **Demarrer.cmd**. Pour arrêter : Ctrl+C dans le terminal.
+Ouvrir **http://localhost:9010**. Garder le terminal ouvert. Pour arrêter : Ctrl+C. Le lanceur Windows **Demarrer.cmd** démarre le même serveur après installation des dépendances.
 
-## Fonctionnalités
+## Fonctions
 
 - Accueil, actualités, agenda, résultats, clubs et fiches détaillées.
 - Filtres par sport et recherche.
-- Ajout et modification des contenus, brouillons, aperçu et suppression avec confirmation.
-- Photos JPEG, PNG et WebP, réduites automatiquement.
-- Liens externes vers les sources.
-- Sauvegarde dans le navigateur, export et import JSON.
+- Ajout, modification, brouillons, aperçu, photos et suppression de contenus.
+- Export/import JSON des articles.
+- Inscription, connexion et déconnexion ; comptes et sessions dans MongoDB.
 
-Les trois articles initiaux sont des exemples, pas des actualités réelles.
+Les trois articles initiaux sont des exemples. Aucun mot de passe partagé ni compte préconfiguré n'est fourni.
 
-## Organisation des fichiers
+## Comptes et Compass
+
+La connexion par défaut est mongodb://127.0.0.1:27017. Le serveur prépare la base **sportsensemble** et ses collections **users** et **sessions**. Après une inscription, actualiser Compass pour voir le compte. Le mot de passe est stocké sous forme d'empreinte scrypt, jamais en clair.
+
+Voir [COMPTES-MONGODB.md](COMPTES-MONGODB.md) pour la configuration, les limites et les tests. Le fichier .env.example fournit les paramètres locaux ; .env est facultatif pour la configuration par défaut et est ignoré par Git.
+
+## Fichiers
 
 | Fichier | Rôle |
 | --- | --- |
-| `index.html` | Structure, en-tête et pied de page |
-| `style.css` | Présentation et adaptation aux petits écrans |
-| `app.js` | Pages, navigation et gestion des contenus |
-| `core.js` | Validations, sports et exemples |
-| `server.cjs` | Serveur local, sans dépendances externes |
-| `Demarrer.cmd` | Lanceur Windows |
-| `LISEZ-MOI.md` | Guide d'utilisation détaillé |
+| index.html | Structure, en-tête et pied de page |
+| style.css | Présentation et affichage mobile |
+| app.js | Pages et gestion des articles locaux |
+| core.js | Validation, sports et exemples |
+| auth.js | Écrans de connexion, inscription et compte |
+| auth.cjs | API d'authentification, mots de passe et sessions |
+| server.cjs | Serveur Node.js et connexion MongoDB |
+| tests/auth.test.cjs | Tests avec une base MongoDB temporaire |
+| maquettes/ | Dessins SVG et aperçus PNG |
 
-## Importer dans votre organisation GitHub
+## Travail en groupe et limites
 
-Créer un dépôt dans l'organisation choisie, puis ajouter **le contenu de ce dossier à la racine du dépôt**. Les autres membres pourront récupérer ce code et lancer `npm start` sur leur ordinateur. Rien n'est envoyé à GitHub automatiquement et aucun déploiement n'est configuré.
+GitHub partage le code. Les comptes sont stockés dans le serveur MongoDB configuré. Si chaque personne utilise 127.0.0.1, elle utilise sa propre base locale.
 
-## Limites de cette première version
+**Les articles et photos restent dans localStorage, dans chaque navigateur.** Ils ne sont pas encore associés aux comptes ni synchronisés entre ordinateurs. L'interface de gestion demande une connexion, mais les données locales restent accessibles à une personne ayant accès au navigateur. Tous les comptes de ce navigateur voient les mêmes articles locaux. La gestion de rôles et les permissions serveur sur les articles restent à développer.
 
-Les contenus sont stockés dans `localStorage`, propre à chaque navigateur et à chaque adresse. **GitHub partage le code, pas les articles saisis dans le navigateur.** Les articles et photos personnels ne sont pas inclus dans ce dossier. Pour les transférer, utilisez « Gérer les contenus → Exporter une sauvegarde », puis importez le fichier dans l'autre navigateur.
+Exportez régulièrement vos articles. Effacer les données du navigateur efface aussi ces contenus. L'import remplace les contenus après confirmation. Les mots de passe et sessions ne sont jamais inclus dans ces exports.
 
-L'espace de gestion n'est pas protégé par un mot de passe. Ce projet n'a pas encore de serveur de données partagé ni d'authentification. Il faut les ajouter pour une gestion collective des articles. Le serveur fourni écoute uniquement sur l'ordinateur local. Cette version ne doit pas être présentée comme une administration sécurisée en ligne.
+Le serveur est limité à cet ordinateur. Avant une mise en ligne, prévoir HTTPS, une base protégée, le stockage partagé des articles, les permissions, la récupération de mot de passe et les mentions légales. La page Contact reste à compléter.
 
-Exporter régulièrement une sauvegarde : effacer les données du navigateur supprime également les contenus locaux. L'import remplace les contenus après confirmation.
+Le site fonctionne séparément de Penpot. Aucun secret, fichier de base de données ou identifiant de connexion n'est destiné à GitHub. node_modules et .env sont ignorés.
 
-Le site fonctionne séparément de Penpot. Aucune clé Docker, configuration Penpot, base de données ou information de connexion n'est incluse.
+## Vérifications
 
-Avant une publication publique, compléter la page Contact, les mentions légales, la politique de confidentialité et choisir une licence adaptée au projet.
+```powershell
+npm run check
+npm test
+```
+
+Les tests nécessitent MongoDB et utilisent une base temporaire isolée. Ils ne vident pas la base sportsensemble.
+
+## Annuaire des clubs et lieux sportifs
+L’onglet Clubs intègre les 546 fiches du classeur fourni : 379 fiches de clubs et 167 de lieux/équipements. Recherche sans accents, filtres, pagination, coordonnées et visuels locaux sont inclus. Les activités multiples d’une structure sont conservées. Les informations du fichier ne sont pas revérifiées individuellement.
+
+Les données partagées sont dans `clubs-data.js`, les visuels dans `assets/clubs/`. Voir `ANNUAIRE.md` pour les sources et la modification des fiches. Cet annuaire fait partie du code du site ; les comptes restent dans MongoDB et les articles ajoutés manuellement restent dans le navigateur.
+
+## Carte interactive
+L’onglet **Carte** utilise Leaflet et OpenStreetMap, avec recherche locale et filtres
+par type, catégorie et discipline. Les positions précises et approximatives sont
+distinguées ; les adresses non résolues restent dans la liste. Voir [CARTE.md](CARTE.md)
+pour les limites et la mise à jour des coordonnées. Exécuter npm install après
+récupération de cette version, puis npm start.
+
+## Agenda personnel par compte
+L’onglet Agenda remplace la liste d’événements par les préférences et clubs de
+l’utilisateur connecté. Âge, disciplines et clubs choisis sont enregistrés dans MongoDB.
+Voir [AGENDA-PERSONNEL.md](AGENDA-PERSONNEL.md) pour les règles d’âge et les limites
+des horaires et tarifs du fichier fourni.
+
+## Ma semaine
+L’onglet **Ma semaine** propose une grille hebdomadaire récurrente, des séances
+issues des horaires du fichier ou confirmées par l’utilisateur, et un contrôle
+des chevauchements côté navigateur et serveur. Le planning est privé et sauvegardé
+dans MongoDB. Voir [MA-SEMAINE.md](MA-SEMAINE.md).
+
+## Application Android — Agenda
+L’application Android permet de consulter les clubs choisis et le planning du compte,
+avec les prix, adresses et itinéraires. Elle conserve une copie chiffrée pour lire le
+planning hors connexion. Sources dans `android`, installation et accès à distance
+expliqués dans [ANDROID.md](ANDROID.md).
