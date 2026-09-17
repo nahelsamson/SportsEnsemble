@@ -19,7 +19,7 @@ test('site public HTTPS : comptes, planning, origine et fichiers privés',async 
     const r=await fetch(base+'/api/auth/'+endpoint,{...(body===undefined?{}:{method:'POST',body:JSON.stringify(body)}),headers:{Origin:requestOrigin,'Content-Type':'application/json',...(cookie?{Cookie:cookie}:{})}});
     return {status:r.status,body:await r.json(),cookie:r.headers.get('set-cookie')};
   }
-  for(const asset of ['/','/vendor/leaflet.js','/clubs-data.js'])assert.equal((await fetch(base+asset)).status,200);
+  for(const asset of ['/','/vendor/leaflet.js','/clubs-data.js','/application/','/application/style.css','/application/qr-code.png','/application/qr-code.svg'])assert.equal((await fetch(base+asset)).status,200);
   for(const file of ['/.env','/.private/atlas-connection.json','/server.cjs','/site-public-url.txt'])assert.equal((await fetch(base+file)).status,404);
   const account={name:'Essai public',email:'public@example.invalid',password:'Mot de passe de verification 2026!'};
   assert.equal((await request('register',account,null,'https://foreign.example')).status,403);

@@ -29,15 +29,22 @@ final class Api {
             throw new Failure(0, "Indique l’adresse HTTPS du serveur, sans chemin ni identifiants.");
         return new URI("https", null, uri.getHost(), uri.getPort(), null, null, null).toASCIIString();
     }
+    static boolean isTemporaryServer(String input) {
+        try {
+            String host = new URI(origin(input)).getHost().toLowerCase(java.util.Locale.ROOT);
+            return host.endsWith(".trycloudflare.com");
+        } catch (Exception ignored) { return false; }
+    }
     static Reply call(String base, String endpoint, JSONObject body, String cookie) throws Exception {
         String safeBase = origin(base);
         if (!endpoint.matches("/(health|api/auth/(login|logout|mobile-agenda))")) throw new Failure(0, "Adresse invalide.");
         HttpsURLConnection connection = (HttpsURLConnection) new URL(safeBase + endpoint).openConnection();
-        connection.setConnectTimeout(10000); connection.setReadTimeout(15000);
+        connection.setConnectTimeout(15000); connection.setReadTimeout(90000);
         // Never forward a session/password to a redirect, including another HTTPS host.
         connection.setInstanceFollowRedirects(false);
         connection.setRequestProperty("Accept", "application/json");
-        connection.setRequestProperty("Origin", ORIGIN);
+        // Native HTTPS requests use the site's cookie sessions; no browser third-party cookies.
+        connection.setRequestProperty("Origin", isTemporaryServer(safeBase) ? ORIGIN : safeBase);
         connection.setRequestProperty("X-SportsEnsemble-Client", "android-v1");
         if (cookie != null && cookie.matches("sportsensemble_session=[a-f0-9]{64}")) connection.setRequestProperty("Cookie", cookie);
         try {

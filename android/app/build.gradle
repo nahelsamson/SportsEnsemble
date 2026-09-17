@@ -7,9 +7,9 @@ android {
         applicationId 'fr.sportsensemble.agenda'
         minSdk 26
         targetSdk 36
-        versionCode 1
-        versionName '0.1.0'
-        resValue 'string', 'default_server_url', (project.findProperty('mobileServer') ?: '')
+        versionCode 2
+        versionName '0.2.0'
+        resValue 'string', 'default_server_url', (project.findProperty('mobileServer') ?: 'https://sportsensemble-api.onrender.com')
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
@@ -17,4 +17,6 @@ android {
     }
     // A local key lets subsequent debug APKs update the installed app.
     signingConfigs { debug { storeFile file('../../.private/android-debug.keystore') } }
+    // Preserve the existing install identity; the public APK disables debugging.
+    buildTypes { release { signingConfig signingConfigs.debug; debuggable false } }
 }

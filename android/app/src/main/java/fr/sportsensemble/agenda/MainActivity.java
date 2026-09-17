@@ -52,7 +52,13 @@ public final class MainActivity extends Activity {
             base = state.optString("base", getString(R.string.default_server_url)); cookie = state.optString("cookie"); cachedAt = state.optLong("cachedAt");
             if (state.has("snapshot")) agenda = new Agenda(state.getJSONObject("snapshot"));
             if (agenda != null) status = "Dernière copie enregistrée sur ce téléphone";
-        } catch (Exception error) { store.clear(); status = "La copie locale n’est plus lisible. Reconnecte-toi."; }
+        } catch (Exception error) { store.clear(); base = getString(R.string.default_server_url); cookie = ""; agenda = null; cachedAt = 0; status = "La copie locale n’est plus lisible. Reconnecte-toi."; }
+        if (Api.isTemporaryServer(base) && !Api.isTemporaryServer(getString(R.string.default_server_url))) {
+            // Never forward an old session or cached account to the new host.
+            store.clear(); base = getString(R.string.default_server_url); cookie = ""; agenda = null; cachedAt = 0;
+            status = "L’application utilise maintenant le serveur en ligne. Reconnecte-toi.";
+            persist();
+        }
         if (saved != null) { selectedDay = saved.getInt("day", selectedDay); weekOffset = saved.getInt("week"); allWeek = saved.getBoolean("all"); tab = saved.getString("tab", "week"); }
         render();
     }
@@ -122,14 +128,15 @@ public final class MainActivity extends Activity {
     private void loginScreen() {
         heading("Ton sport,\nà portée de main.", "Retrouve les séances et les clubs choisis sur ton compte SportsEnsemble.");
         if (!status.isEmpty()) { addText(content, status, 14, GREEN, false); gap(content, 16); }
-        EditText server = field("Adresse du serveur", "https://agenda…", InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_VARIATION_URI, base);
-        addText(content, "Utilise l’adresse sécurisée fournie par la personne qui héberge le site.", 12, MUTED, false); gap(content, 18);
+        EditText server = base.equals(getString(R.string.default_server_url)) ? null
+            : field("Adresse du serveur", "https://agenda…", InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_VARIATION_URI, base);
         EditText email = field("E-mail du compte", "toi@exemple.fr", InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_VARIATION_EMAIL_ADDRESS, "");
         EditText password = field("Mot de passe", "Ton mot de passe habituel", InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_VARIATION_PASSWORD, "");
         email.setAutofillHints(View.AUTOFILL_HINT_USERNAME); password.setAutofillHints(View.AUTOFILL_HINT_PASSWORD);
         fullButton(content, busy ? "Connexion en cours…" : "Se connecter", true, () -> {
             String address, login = email.getText().toString().trim(), secret = password.getText().toString();
-            try { address = Api.origin(server.getText().toString()); } catch (Exception error) { server.setError("Une adresse HTTPS complète est nécessaire"); return; }
+            try { address = Api.origin(server == null ? base : server.getText().toString()); }
+            catch (Exception error) { if (server != null) server.setError("Une adresse HTTPS complète est nécessaire"); else toast("Adresse du serveur indisponible."); return; }
             if (login.isEmpty()) { email.setError("Indique ton e-mail"); return; }
             if (secret.isEmpty()) { password.setError("Indique ton mot de passe"); return; }
             password.setText(""); login(address, login, secret);
@@ -211,14 +218,14 @@ public final class MainActivity extends Activity {
         fullButton(content, busy ? "Actualisation…" : "Actualiser", true, this::refresh);
         fullButton(content, "Changer d’adresse de serveur", false, () -> new AlertDialog.Builder(this).setTitle("Changer de serveur ?").setMessage("Tu devras te reconnecter. La copie locale sera effacée pour éviter de mélanger deux comptes ou deux serveurs.").setNegativeButton("Annuler", null).setPositiveButton("Continuer", (d, w) -> logout(true)).show());
         fullButton(content, "Se déconnecter", false, () -> new AlertDialog.Builder(this).setTitle("Se déconnecter ?").setMessage("Le planning enregistré sur ce téléphone sera effacé.").setNegativeButton("Annuler", null).setPositiveButton("Déconnexion", (d, w) -> logout(false)).show());
-        gap(content, 24); addText(content, "SportsEnsemble Agenda · 0.1.0\nConsultation de ton agenda personnel. Le serveur doit être en ligne pour recevoir les changements. Sans réseau, tu consultes la dernière copie enregistrée.", 12, MUTED, false);
+        gap(content, 24); addText(content, "SportsEnsemble Agenda · 0.2.0\nConsultation de ton agenda personnel. Sans réseau, tu consultes la dernière copie enregistrée. Après une période d’inactivité, la connexion peut prendre environ une minute.", 12, MUTED, false);
     }
     private void persist() {
         try { JSONObject state = new JSONObject().put("base", base).put("cookie", cookie).put("cachedAt", cachedAt); if (agenda != null) state.put("snapshot", agenda.raw); store.save(state); }
         catch (Exception error) { store.clear(); status = "Planning chargé, mais copie hors connexion indisponible"; toast(status); }
     }
     private void login(String address, String email, String password) {
-        if (busy) return; busy = true; base = address; status = "Connexion en cours…"; int request = ++generation; render();
+        if (busy) return; busy = true; base = address; status = "Connexion en cours… Le premier accès peut prendre environ une minute."; int request = ++generation; render();
         network.execute(() -> {
             String session = null;
             try {
@@ -257,6 +264,6 @@ public final class MainActivity extends Activity {
             catch (Exception error) { runOnUiThread(() -> { if (!isFinishing()) toast("Copie locale effacée. Sans connexion, la session distante expire automatiquement sous 7 jours."); }); }
         });
     }
-    private String message(Exception error) { return error instanceof Api.Failure ? error.getMessage() : "Connexion impossible. Vérifie Internet, l’adresse et que le serveur est allumé."; }
+    private String message(Exception error) { return error instanceof Api.Failure ? error.getMessage() : "Connexion impossible. Vérifie Internet, puis réessaie dans une minute : le serveur peut être en cours de réveil."; }
     private void toast(String message) { Toast.makeText(this, message, Toast.LENGTH_LONG).show(); }
 }

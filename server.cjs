@@ -2,6 +2,11 @@ const http = require('node:http'), fs = require('node:fs'), path = require('node
 const { MongoClient } = require('mongodb');
 const { createAuth } = require('./auth.cjs');
 const files = {
+  '/application/': ['application/index.html', 'text/html; charset=utf-8'],
+  '/application/index.html': ['application/index.html', 'text/html; charset=utf-8'],
+  '/application/style.css': ['application/style.css', 'text/css; charset=utf-8'],
+  '/application/qr-code.png': ['application/qr-code.png', 'image/png'],
+  '/application/qr-code.svg': ['application/qr-code.svg', 'image/svg+xml'],
   '/vendor/leaflet.js': ['node_modules/leaflet/dist/leaflet.js','text/javascript; charset=utf-8'],
   '/vendor/leaflet.css': ['node_modules/leaflet/dist/leaflet.css','text/css; charset=utf-8'],
   '/': ['index.html', 'text/html; charset=utf-8'], '/index.html': ['index.html', 'text/html; charset=utf-8'],

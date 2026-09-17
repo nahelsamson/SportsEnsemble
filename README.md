@@ -114,3 +114,7 @@ L’application Android permet de consulter les clubs choisis et le planning du 
 avec les prix, adresses et itinéraires. Elle conserve une copie chiffrée pour lire le
 planning hors connexion. Sources dans `android`, installation et accès à distance
 expliqués dans [ANDROID.md](ANDROID.md).
+
+## Application Android
+
+[Page de téléchargement et QR code permanent](https://nahelsamson.github.io/SportsEnsemble/application/). L’application utilise Render et Atlas ; le PC peut rester éteint. Les sources, la compilation et les mises à jour sont décrites dans [ANDROID.md](ANDROID.md).
