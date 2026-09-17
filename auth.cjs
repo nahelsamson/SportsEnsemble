@@ -1,3 +1,4 @@
+const { createReviews } = require('./reviews.cjs');
 const WeekCore = require('./week-core.js');
 const AgendaCore = require('./agenda-core.js');
 const agendaClubs = require('./agenda-catalog.cjs');
@@ -56,6 +57,7 @@ async function createAuth(db, { origin = 'http://localhost:9010', secureCookie =
   await users.createIndex({ email: 1 }, { unique: true });
   await sessions.createIndex({ tokenHash: 1 }, { unique: true });
   await sessions.createIndex({ expiresAt: 1 }, { expireAfterSeconds: 0 });
+  const reviews = await createReviews(db, HttpError);
   const dummyHash = await hashPassword(randomBytes(32).toString('hex'));
   const attempts = new Map(); let hashing = 0;
   const cookie = (token, age) => `${COOKIE}=${token}; Path=/; HttpOnly; SameSite=Strict; Max-Age=${age}${secureCookie ? '; Secure' : ''}`;
@@ -97,6 +99,15 @@ async function createAuth(db, { origin = 'http://localhost:9010', secureCookie =
         }
         if (!tokenMode(req)) throw new HttpError(403, 'Connexion distante invalide.');
       } else if (tokenMode(req) || req.headers.authorization) throw new HttpError(403, 'Connexion distante refusée.');
+      if (pathname === '/api/auth/reviews' || pathname.startsWith('/api/auth/reviews/')) {
+        if (pathname !== '/api/auth/reviews' || !['GET', 'POST'].includes(req.method)) throw new HttpError(405, 'Les avis publiés ne peuvent pas être modifiés ni supprimés.');
+        if (req.method === 'GET') return json(res, 200, await reviews.list(req.url));
+        if (!allowedOrigin(req)) throw new HttpError(403, 'Origine refusée.');
+        const user = await sessionUser(req);
+        if (!user) throw new HttpError(401, 'Connecte-toi pour publier un avis.');
+        const result = await reviews.add(user, await readJSON(req));
+        return json(res, result.created ? 201 : 200, result);
+      }
       if (pathname === '/api/auth/me' && req.method === 'GET') { const user = await sessionUser(req); return json(res, 200, { user: user ? publicUser(user) : null }); }
       if (pathname === '/api/auth/mobile-agenda' && req.method === 'GET') {
         const user = await sessionUser(req);

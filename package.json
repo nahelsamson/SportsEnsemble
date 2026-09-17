@@ -5,7 +5,7 @@
   "description": "Portail sportif local pour Aix-en-Provence et le Pays d'Aix",
   "scripts": {
     "start": "node server.cjs",
-    "check": "node --check app.js && node --check core.js && node --check server.cjs && node --check auth.js && node --check auth.cjs && node --check directory.js && node --check clubs-data.js && node --check sports-map.js && node --check map-data.js && node --check agenda-core.js && node --check personal-agenda.js && node --check agenda-catalog.cjs && node --check week-core.js && node --check weekly-planner.js && node --check mobile-agenda.cjs && node --check mobile-server.cjs && node --check scripts/mobile-remote.cjs && node --check scripts/site-remote.cjs && node --check site-config.js && node --check auth-transport.js",
+    "check": "node --check app.js && node --check core.js && node --check server.cjs && node --check auth.js && node --check auth.cjs && node --check directory.js && node --check clubs-data.js && node --check sports-map.js && node --check map-data.js && node --check agenda-core.js && node --check personal-agenda.js && node --check agenda-catalog.cjs && node --check week-core.js && node --check weekly-planner.js && node --check mobile-agenda.cjs && node --check mobile-server.cjs && node --check scripts/mobile-remote.cjs && node --check scripts/site-remote.cjs && node --check site-config.js && node --check auth-transport.js && node --check reviews.js && node --check reviews.cjs",
     "test": "node --test tests/*.test.cjs",
     "mobile:start": "node mobile-server.cjs",
     "mobile:remote": "node scripts/mobile-remote.cjs",

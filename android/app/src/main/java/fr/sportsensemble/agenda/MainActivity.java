@@ -38,6 +38,7 @@ public final class MainActivity extends Activity {
     private SecureStore store;
     private String base = "", cookie = "", status = "";
     private Agenda agenda;
+    private ReviewsPanel reviews;
     private long cachedAt, lastAttempt;
     private int generation, selectedDay = LocalDate.now(java.time.ZoneId.of("Europe/Paris")).getDayOfWeek().getValue() - 1, weekOffset;
     private boolean busy, allWeek;
@@ -47,6 +48,7 @@ public final class MainActivity extends Activity {
     @Override public void onCreate(Bundle saved) {
         super.onCreate(saved);
         store = new SecureStore(this);
+        reviews = new ReviewsPanel(this, network, saved);
         try {
             JSONObject state = store.load();
             base = state.optString("base", getString(R.string.default_server_url)); cookie = state.optString("cookie"); cachedAt = state.optLong("cachedAt");
@@ -67,9 +69,9 @@ public final class MainActivity extends Activity {
         if (!cookie.isEmpty() && !busy && System.currentTimeMillis() - lastAttempt > 60000) refresh();
     }
     @Override public void onSaveInstanceState(Bundle out) {
-        super.onSaveInstanceState(out); out.putInt("day", selectedDay); out.putInt("week", weekOffset); out.putBoolean("all", allWeek); out.putString("tab", tab);
+        super.onSaveInstanceState(out); out.putInt("day", selectedDay); out.putInt("week", weekOffset); out.putBoolean("all", allWeek); out.putString("tab", tab); reviews.save(out);
     }
-    @Override public void onDestroy() { generation++; network.shutdownNow(); super.onDestroy(); }
+    @Override public void onDestroy() { generation++; reviews.close(); network.shutdownNow(); super.onDestroy(); }
     private int dp(float n) { return Math.round(n * getResources().getDisplayMetrics().density); }
     private LinearLayout column() { LinearLayout x = new LinearLayout(this); x.setOrientation(LinearLayout.VERTICAL); return x; }
     private LinearLayout row() { LinearLayout x = new LinearLayout(this); x.setOrientation(LinearLayout.HORIZONTAL); x.setGravity(Gravity.CENTER_VERTICAL); return x; }
@@ -111,12 +113,12 @@ public final class MainActivity extends Activity {
         content = column(); content.setPadding(dp(20), dp(18), dp(20), dp(28)); scroll.addView(content); root.addView(scroll, new LinearLayout.LayoutParams(-1, 0, 1));
         if (agenda == null) loginScreen();
         else {
-            if (!status.isEmpty()) { TextView banner = text(status + "\nCopie du " + stamp(), 12, GREEN, false); banner.setPadding(dp(12), dp(10), dp(12), dp(10)); banner.setBackground(shape(Color.rgb(232,240,225), 0)); content.addView(banner); gap(content, 18); }
-            if (tab.equals("clubs")) clubsScreen(); else if (tab.equals("account")) accountScreen(); else weekScreen();
+            if (!status.isEmpty() && !tab.equals("reviews")) { TextView banner = text(status + "\nCopie du " + stamp(), 12, GREEN, false); banner.setPadding(dp(12), dp(10), dp(12), dp(10)); banner.setBackground(shape(Color.rgb(232,240,225), 0)); content.addView(banner); gap(content, 18); }
+            if (tab.equals("reviews")) reviews.show(content, base, cookie, agenda.name); else if (tab.equals("clubs")) clubsScreen(); else if (tab.equals("account")) accountScreen(); else weekScreen();
             LinearLayout nav = row(); nav.setPadding(dp(16), dp(10), dp(16), dp(10)); nav.setBackgroundColor(Color.WHITE);
             Button week = button("Ma semaine", tab.equals("week"), () -> { tab = "week"; render(); });
             Button clubs = button("Mes sports", tab.equals("clubs"), () -> { tab = "clubs"; render(); });
-            LinearLayout.LayoutParams left = new LinearLayout.LayoutParams(0, -2, 1); left.rightMargin = dp(8); nav.addView(week, left); nav.addView(clubs, new LinearLayout.LayoutParams(0, -2, 1)); root.addView(nav);
+            LinearLayout.LayoutParams left = new LinearLayout.LayoutParams(0, -2, 1); left.rightMargin = dp(8); nav.addView(week, left); nav.addView(clubs, left); nav.addView(button("Avis", tab.equals("reviews"), () -> { tab = "reviews"; render(); }), new LinearLayout.LayoutParams(0, -2, 1)); root.addView(nav);
         }
         setContentView(root); root.requestApplyInsets();
     }
@@ -218,7 +220,7 @@ public final class MainActivity extends Activity {
         fullButton(content, busy ? "Actualisation…" : "Actualiser", true, this::refresh);
         fullButton(content, "Changer d’adresse de serveur", false, () -> new AlertDialog.Builder(this).setTitle("Changer de serveur ?").setMessage("Tu devras te reconnecter. La copie locale sera effacée pour éviter de mélanger deux comptes ou deux serveurs.").setNegativeButton("Annuler", null).setPositiveButton("Continuer", (d, w) -> logout(true)).show());
         fullButton(content, "Se déconnecter", false, () -> new AlertDialog.Builder(this).setTitle("Se déconnecter ?").setMessage("Le planning enregistré sur ce téléphone sera effacé.").setNegativeButton("Annuler", null).setPositiveButton("Déconnexion", (d, w) -> logout(false)).show());
-        gap(content, 24); addText(content, "SportsEnsemble Agenda · 0.2.0\nConsultation de ton agenda personnel. Sans réseau, tu consultes la dernière copie enregistrée. Après une période d’inactivité, la connexion peut prendre environ une minute.", 12, MUTED, false);
+        gap(content, 24); addText(content, "SportsEnsemble Agenda · 0.3.0\nConsultation de ton agenda personnel. Sans réseau, tu consultes la dernière copie enregistrée. Après une période d’inactivité, la connexion peut prendre environ une minute.", 12, MUTED, false);
     }
     private void persist() {
         try { JSONObject state = new JSONObject().put("base", base).put("cookie", cookie).put("cachedAt", cachedAt); if (agenda != null) state.put("snapshot", agenda.raw); store.save(state); }
@@ -250,7 +252,7 @@ public final class MainActivity extends Activity {
             } catch (Exception error) {
                 runOnUiThread(() -> {
                     if (request != generation || isFinishing()) return; busy = false;
-                    if (error instanceof Api.Failure && ((Api.Failure) error).status == 401) { cookie = ""; agenda = null; cachedAt = 0; store.clear(); status = "Ta session a expiré. Reconnecte-toi."; }
+                    if (error instanceof Api.Failure && ((Api.Failure) error).status == 401) { cookie = ""; agenda = null; cachedAt = 0; store.clear(); reviews.close(); reviews = new ReviewsPanel(this, network, null); status = "Ta session a expiré. Reconnecte-toi."; }
                     else status = agenda == null ? message(error) : "Actualisation impossible · dernière copie disponible";
                     render();
                 });
@@ -258,7 +260,7 @@ public final class MainActivity extends Activity {
         });
     }
     private void logout(boolean changeServer) {
-        final String address = base, token = cookie; generation++; cookie = ""; agenda = null; cachedAt = 0; status = "Déconnecté. La copie du planning a été effacée."; busy = false; store.clear(); if (changeServer) base = ""; tab = "week"; render();
+        final String address = base, token = cookie; generation++; reviews.close(); reviews = new ReviewsPanel(this, network, null); cookie = ""; agenda = null; cachedAt = 0; status = "Déconnecté. La copie du planning a été effacée."; busy = false; store.clear(); if (changeServer) base = ""; tab = "week"; render();
         network.execute(() -> {
             try { Api.call(address, "/api/auth/logout", new JSONObject(), token); }
             catch (Exception error) { runOnUiThread(() -> { if (!isFinishing()) toast("Copie locale effacée. Sans connexion, la session distante expire automatiquement sous 7 jours."); }); }

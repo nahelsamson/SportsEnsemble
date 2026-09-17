@@ -23,7 +23,7 @@ function createServer(auth, { healthCheck } = {}) {
     if (pathname.startsWith('/api/')) { auth(req, res, pathname); return; }
     const asset = /^\/assets\/clubs\/[a-z0-9-]+\.(svg|png|webp|jpg)$/.exec(pathname);
     const mime = {svg:'image/svg+xml',png:'image/png',webp:'image/webp',jpg:'image/jpeg'};
-    const file = files[pathname] || (['/site-config.js','/auth-transport.js','/directory.js','/clubs-data.js','/map-data.js','/sports-map.js','/agenda-core.js','/personal-agenda.js','/week-core.js','/weekly-planner.js'].includes(pathname) ? [pathname.slice(1),'text/javascript; charset=utf-8'] : asset ? [pathname.slice(1),mime[asset[1]]] : null);
+    const file = files[pathname] || (['/reviews.js','/site-config.js','/auth-transport.js','/directory.js','/clubs-data.js','/map-data.js','/sports-map.js','/agenda-core.js','/personal-agenda.js','/week-core.js','/weekly-planner.js'].includes(pathname) ? [pathname.slice(1),'text/javascript; charset=utf-8'] : asset ? [pathname.slice(1),mime[asset[1]]] : null);
     if (!file || !['GET', 'HEAD'].includes(req.method)) { res.writeHead(404); return res.end('Introuvable'); }
     fs.readFile(path.join(__dirname, file[0]), (err, data) => {
       if (err) { res.writeHead(500); return res.end('Lecture impossible'); }
@@ -58,7 +58,7 @@ async function main() {
       console.error(error.code === 'EADDRINUSE' ? `Le port ${port} est déjà utilisé. Arrête l’ancien serveur avec Ctrl+C, puis relance npm start.` : 'Le serveur ne peut pas démarrer.');
       await client.close(); process.exitCode = 1;
     });
-    server.listen(port, host, () => console.log(`SportsEnsemble : ${origin}\nMongoDB : base ${dbName} — collections users et sessions${onRender ? '' : '\nGarde cette fenêtre ouverte. Ctrl+C pour arrêter.'}`));
+    server.listen(port, host, () => console.log(`SportsEnsemble : ${origin}\nMongoDB : base ${dbName} — collections users, sessions et reviews${onRender ? '' : '\nGarde cette fenêtre ouverte. Ctrl+C pour arrêter.'}`));
     for (const signal of ['SIGINT', 'SIGTERM']) process.once(signal, () => server.close(async () => { await client.close(); process.exit(0); }));
     return { server, client };
   } catch (error) {

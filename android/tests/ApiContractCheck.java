@@ -46,6 +46,14 @@ public final class ApiContractCheck {
         catch (Api.Failure expected) { check(expected.status == 302, "legacy redirect refused"); }
         check(Api.ORIGIN.equals(last.getRequestProperty("Origin")), "legacy gateway compatibility");
         check(last.getRequestProperty("Cookie") == null, "reject invalid session");
+        for (String endpoint : new String[]{"/api/auth/reviews", "/api/auth/reviews?before=" + "a".repeat(24)}) {
+            try { Api.call(render, endpoint, null, cookie); throw new AssertionError("redirect accepted"); }
+            catch (Api.Failure expected) { check(expected.status == 302, "reviews endpoint accepted, redirect blocked"); }
+        }
+        for (String endpoint : new String[]{"/api/auth/reviews?before=invalid", "/api/auth/reviews/123", "/api/auth/reviews?redirect=https://evil.invalid"}) {
+            try { Api.call(render, endpoint, null, cookie); throw new AssertionError("invalid endpoint accepted"); }
+            catch (Api.Failure expected) { check(expected.status == 0, "reviews endpoint boundary"); }
+        }
         System.out.println("Android API: HTTPS, migration, cookies, timeout and redirect checks passed.");
     }
 }

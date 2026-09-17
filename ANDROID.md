@@ -101,3 +101,17 @@ automatiquement sur le téléphone : l’utilisateur télécharge et ouvre le no
 Les scripts `npm run mobile:remote` et `Demarrer-Agenda-Android.ps1` sont conservés pour
 les anciens essais. Ils nécessitent le PC allumé et créent un tunnel temporaire ; ils
 ne sont plus nécessaires pour télécharger ou utiliser l’application distribuée ici.
+
+## Avis partagés (version 0.3.0)
+
+L’onglet **Avis** permet de lire les expériences de tous les utilisateurs et de publier
+une note entière de **0 à 10** accompagnée d’un commentaire de **1 à 2 000 caractères**.
+Les avis concernent SportsEnsemble et sont communs au site et à l’application.
+Une connexion est nécessaire pour publier. Le serveur ajoute le nom du compte et la
+date ; l’e-mail n’est jamais rendu public. Aucun compte ne peut modifier ou supprimer
+un avis depuis l’application ou l’API. Il reste possible de publier un nouvel avis.
+
+Une connexion Internet est nécessaire pour les avis. **Actualiser les avis** récupère
+les nouvelles publications. Les anciennes pages sont accessibles avec **Voir les avis
+précédents**. Après une erreur réseau, réessayer le même envoi ne crée pas de doublon.
+La version 0.3.0 s’installe par-dessus la précédente et conserve sa connexion à Render.

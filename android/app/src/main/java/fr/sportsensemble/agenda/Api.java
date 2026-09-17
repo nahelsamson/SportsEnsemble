@@ -37,7 +37,7 @@ final class Api {
     }
     static Reply call(String base, String endpoint, JSONObject body, String cookie) throws Exception {
         String safeBase = origin(base);
-        if (!endpoint.matches("/(health|api/auth/(login|logout|mobile-agenda))")) throw new Failure(0, "Adresse invalide.");
+        if (!endpoint.matches("/(health|api/auth/(login|logout|mobile-agenda|reviews(?:\\?before=[a-f0-9]{24})?))")) throw new Failure(0, "Adresse invalide.");
         HttpsURLConnection connection = (HttpsURLConnection) new URL(safeBase + endpoint).openConnection();
         connection.setConnectTimeout(15000); connection.setReadTimeout(90000);
         // Never forward a session/password to a redirect, including another HTTPS host.

@@ -118,3 +118,13 @@ expliqués dans [ANDROID.md](ANDROID.md).
 ## Application Android
 
 [Page de téléchargement et QR code permanent](https://nahelsamson.github.io/SportsEnsemble/application/). L’application utilise Render et Atlas ; le PC peut rester éteint. Les sources, la compilation et les mises à jour sont décrites dans [ANDROID.md](ANDROID.md).
+
+## Avis de la communauté
+
+- Onglet `#avis` : lecture publique de tous les avis ; publication après connexion.
+- Note entière de 0 à 10, commentaire obligatoire (2 000 caractères maximum), auteur et date.
+- Collection MongoDB `reviews`, commune au site et à Android 0.3.0.
+- `GET /api/auth/reviews` : 20 résultats récents, `nextCursor` pour lire les suivants via `?before=...`.
+- `POST /api/auth/reviews` : `{ rating, comment, requestId }`, UUID v4 renouvelé pour chaque nouvel avis. Même identifiant/contenu réessayé : même avis ; contenu différent : HTTP 409.
+- L’auteur provient exclusivement de la session. Pas de route de modification ou de suppression, ni d’exception selon le compte.
+- Tests dans une base locale isolée : cookies Android, sessions GitHub Pages, persistance, validation, immutabilité et pagination (`npm test`).
