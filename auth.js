@@ -1,15 +1,7 @@
 'use strict';
 const Auth = {
   ready: false, user: null, error: '',
-  async request(path, data) {
-    let response;
-    try { response = await fetch('/api/auth/' + path, { credentials: 'same-origin', ...(data !== undefined ? { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) } : {}) }); }
-    catch { throw Error('Le serveur est inaccessible. Vérifie qu’il est démarré.'); }
-    let result;
-    try { result = await response.json(); } catch { throw Error('Démarre la nouvelle version du serveur avec npm start pour utiliser les comptes.'); }
-    if (!response.ok) throw Error(result.error || 'La demande a échoué.');
-    return result;
-  },
+  async request(path, data) { return SportsTransport.request(path, data); },
   async init() {
     try { this.user = (await this.request('me')).user; this.error = ''; }
     catch (error) { this.error = error.message; this.user = null; }
